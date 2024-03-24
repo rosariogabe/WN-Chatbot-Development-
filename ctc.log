@@ -1,0 +1,6 @@
+DEBUG:matplotlib:matplotlib data path: /Users/gabrielrosario/Documents/GitHub/openai/End_to_end_Solutions/AOAIVirtualAssistant/src/notebooks/max-insurance/lib/python3.11/site-packages/matplotlib/mpl-data
+DEBUG:matplotlib:CONFIGDIR=/Users/gabrielrosario/.matplotlib
+DEBUG:matplotlib:interactive is False
+DEBUG:matplotlib:platform is darwin
+DEBUG:matplotlib:CACHEDIR=/Users/gabrielrosario/.matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /Users/gabrielrosario/.matplotlib/fontlist-v330.json
