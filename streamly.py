@@ -146,10 +146,10 @@ def on_chat_submit(chat_input, api_key, latest_updates, use_langchain=False):
 
     # Initialize the conversation history with system and assistant messages
     if 'conversation_history' not in st.session_state:
-        assistant_message = "Hello! I am WhitNey. How can I assist you today?"
+        assistant_message = "Hello! I am WiNny. How can I assist you today?"
         # Initialize conversation_history
         st.session_state.conversation_history = [
-            {"role": "system", "content": "You are WhitNey, a specialized AI assistant trained in Insurance in Canada Ontario."},
+            {"role": "system", "content": "You are WiNny, a specialized AI assistant trained in Insurance in Canada Ontario."},
             {"role": "system", "content": "Refer to conversation history to provide context to your reponse."},            {"role": "assistant", "content": assistant_message}
         ]
 
@@ -208,10 +208,10 @@ def main():
         st.session_state.history = []
     if 'conversation_history' not in st.session_state:
         st.session_state.conversation_history = []
-        initial_bot_message = "I am WhitNey, what can I help you with today?"
+        initial_bot_message = "I am WiNny, what can I help you with today?"
         st.session_state.history.append({"role": "assistant", "content": initial_bot_message})
         st.session_state.conversation_history = [
-            {"role": "system", "content": "You are WhitNey, a specialized AI assistant trained to assist with Insurances Policies"},
+            {"role": "system", "content": "You are WiNny, a specialized AI assistant trained to assist with Insurances Policies"},
             {"role": "system", "content": "Refer to conversation history to provide context to your reponse."},
             {"role": "system", "content": "Use the streamlit_updates.json local file to look up the latest Streamlit feature updates."},
             {"role": "assistant", "content": initial_bot_message}
