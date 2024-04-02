@@ -8,9 +8,10 @@ import time
 import json
 import requests
 import base64
+import os
+from openai import AzureOpenAI
+import json
 
-
-from openai import OpenAIError
 #client = OpenAI()
 
 logging.basicConfig(level=logging.INFO)
@@ -138,122 +139,84 @@ def img_to_base64(image_path):
 
 @st.cache_data(show_spinner=False)
 def on_chat_submit(chat_input, api_key, latest_updates, use_langchain=False):
-    """
-    Handle chat input submissions and interact with the OpenAI API.
-
-    Parameters:
-        chat_input (str): The chat input from the user.
-        api_key (str): The OpenAI API key.
-        latest_updates (dict): The latest Streamlit updates fetched from a JSON file or API.
-        use_langchain (bool): Whether to use LangChain OpenAI wrapper.
-
-    Returns:
-        None: Updates the chat history in Streamlit's session state.
-    """
+    
     user_input = chat_input.strip().lower()
 
-    # Initialize the OpenAI API
-    model_engine = "gpt-3.5-turbo-1106"
+
 
     # Initialize the conversation history with system and assistant messages
     if 'conversation_history' not in st.session_state:
-        assistant_message = "Hello! I am Streamly. How can I assist you with Streamlit today?"
-        formatted_message = []
-        highlights = latest_updates.get("Highlights", {})
-        
-        # Include version info in highlights if available
-        version_info = highlights.get("Version 1.32", {})
-        if version_info:
-            description = version_info.get("Description", "No description available.")
-            formatted_message.append(f"- **Version 1.32**: {description}")
-
-        for category, updates in latest_updates.items():
-            formatted_message.append(f"**{category}**:")
-            for sub_key, sub_values in updates.items():
-                if sub_key != "Version 1.32":  # Skip the version info as it's already included
-                    description = sub_values.get("Description", "No description available.")
-                    documentation = sub_values.get("Documentation", "No documentation available.")
-                    formatted_message.append(f"- **{sub_key}**: {description}")
-                    formatted_message.append(f"  - **Documentation**: {documentation}")
-
-        assistant_message += "\n".join(formatted_message)
-        
+        assistant_message = "Hello! I am WhitNey. How can I assist you today?"
         # Initialize conversation_history
         st.session_state.conversation_history = [
-            {"role": "system", "content": "You are Streamly, a specialized AI assistant trained in Streamlit."},
-            {"role": "system", "content": "Refer to conversation history to provide context to your reponse."},
-            {"role": "system", "content": "You are trained up to Streamlit Version 1.32.0."},
-            {"role": "assistant", "content": assistant_message}
+            {"role": "system", "content": "You are WhitNey, a specialized AI assistant trained in Insurance in Canada Ontario."},
+            {"role": "system", "content": "Refer to conversation history to provide context to your reponse."},            {"role": "assistant", "content": assistant_message}
         ]
-
 
     # Append user's query to conversation history
     st.session_state.conversation_history.append({"role": "user", "content": user_input})
 
-    try:
-        # Logic for assistant's reply
-        assistant_reply = ""
+    # Logic for assistant's reply
+    assistant_reply = ""
+        
+    client = AzureOpenAI(
+      azure_endpoint = st.session_state.api_base, 
+      api_key=st.session_state.api_key,  
+      api_version=st.session_state.api_version
+    )    
 
-        if use_langchain:
-            # LangChain OpenAI wrapper call
-            lc_result = lc_openai.ChatCompletion.create(
-                messages=st.session_state.conversation_history,
-                model=model_engine,
-                temperature=0
-            )
-            assistant_reply = lc_result["choices"][0]["message"]["content"]
+    message_text = st.session_state.conversation_history
 
-        else:
-            if "latest updates" in user_input:
-                assistant_reply = "Here are the latest highlights from Streamlit:\n"
-                highlights = latest_updates.get("Highlights", {})
-                if highlights:
-                    for version, info in highlights.items():
-                        description = info.get("Description", "No description available.")
-                        assistant_reply += f"- **{version}**: {description}\n"
-            else:
-                
-                # Direct OpenAI API call
-                response = "OpenAI" #client.chat.completions.create(model=model_engine,
-                #messages=st.session_state.conversation_history)
-                
-                assistant_reply = response.choices[0].message.content
+    completion = client.chat.completions.create(
+      model="WNChatbotDevelopment", # model = "deployment_name"
+      messages = message_text,
+      temperature=0.7,
+      max_tokens=800,
+      top_p=0.95,
+      frequency_penalty=0,
+      presence_penalty=0,
+      stop=None
+    )
 
-            # Append assistant's reply to the conversation history
-            st.session_state.conversation_history.append({"role": "assistant", "content": assistant_reply})
+    import json
+    completion_response = completion.model_dump_json(indent=2)
+    completion_dict = json.loads(completion_response)
+    assistant_reply = completion_dict["choices"][0]["message"]["content"]
 
-        # Update the Streamlit chat history
-        if "history" in st.session_state:
-            st.session_state.history.append({"role": "user", "content": user_input})
-            st.session_state.history.append({"role": "assistant", "content": assistant_reply})
+    # Append assistant's reply to the conversation history
+    st.session_state.conversation_history.append({"role": "assistant", "content":assistant_reply})
 
-    except OpenAIError as e:
-        logging.error(f"Error occurred: {e}")
-        #error_message = f"OpenAI Error: {str(e)}"
-        #st.error(error_message)
-        #st.session_state.history.append({"role": "assistant", "content": error_message})
+    # Update the Streamlit chat history
+    if "history" in st.session_state:
+        st.session_state.history.append({"role": "user", "content": user_input})
+        st.session_state.history.append({"role": "assistant", "content": assistant_reply})
 
 def main():
     # Initialize session state variables for chat history and conversation history
+    with open(r'config.json') as config_file:
+        config_details = json.load(config_file)
+    
+    chatgpt_model_name = config_details['CHATGPT_MODEL']
+    
+    if "api_key" not in st.session_state:
+        st.session_state.api_key = config_details['OPENAI_API_KEY']
+        st.session_state.api_base = config_details['OPENAI_API_BASE']
+        st.session_state.api_version = config_details['OPENAI_API_VERSION']
+        st.session_state.api_type = "azure"
+
     if "history" not in st.session_state:
         st.session_state.history = []
     if 'conversation_history' not in st.session_state:
         st.session_state.conversation_history = []
-
-        initial_bot_message = "Hello! How can I assist you today?"
-        updates = {}#latest_updates.get("Highlights", {})
-        if isinstance(updates, dict):  # Check if updates is a dictionary
-            initial_bot_message = "I am WhitNey, what can I help with today?"
-            st.session_state.history.append({"role": "assistant", "content": initial_bot_message})
-            st.session_state.conversation_history = [
-                {"role": "system", "content": "You are Streamly, a specialized AI assistant trained to assist with the logic and programming using Streamlit."},
-                {"role": "system", "content": "Refer to conversation history to provide context to your reponse."},
-                {"role": "system", "content": "Use the streamlit_updates.json local file to look up the latest Streamlit feature updates."},
-                {"role": "system", "content": "When responding, provide code examples, links to documentation, and code examples from Streamlit API to help the user."},
-                {"role": "assistant", "content": initial_bot_message}
-            ]
-        else:
-            st.error("Unexpected structure for 'Highlights' in latest updates.")
+        initial_bot_message = "I am WhitNey, what can I help you with today?"
+        st.session_state.history.append({"role": "assistant", "content": initial_bot_message})
+        st.session_state.conversation_history = [
+            {"role": "system", "content": "You are WhitNey, a specialized AI assistant trained to assist with Insurances Policies"},
+            {"role": "system", "content": "Refer to conversation history to provide context to your reponse."},
+            {"role": "system", "content": "Use the streamlit_updates.json local file to look up the latest Streamlit feature updates."},
+            {"role": "assistant", "content": initial_bot_message}
+        ]
+    
     
     # Inject custom CSS for glowing border effect
     st.markdown(
