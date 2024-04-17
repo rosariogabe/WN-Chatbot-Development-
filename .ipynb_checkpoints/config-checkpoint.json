@@ -1,0 +1,6 @@
+{
+    "CHATGPT_MODEL":"WNChatbotDevelopment",
+    "OPENAI_API_BASE":"https://innova-openai.openai.azure.com",
+    "OPENAI_API_VERSION":"2023-03-15-preview",
+    "OPENAI_API_KEY":"49e18663cedf411695143f42a6adda4f"
+}

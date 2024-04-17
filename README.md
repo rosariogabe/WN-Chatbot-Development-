@@ -1,93 +1,114 @@
-<h1><span style="color: crimson;">Streamly</span> - Streamlit Assistant <img src="imgs/slogo.png" alt="Streamlit logo" width="50" style="border-radius: 25px;"/></h1>
+## Whitley-Newman (WN) Chatbot
 
-<p align="center">
-  <img src="imgs/streamly_readme.png" alt="Streamly image" width="300" style="border-radius: 45px;"/>
-</p>
+This repository contains code for the Whitley-Newman (WN) Chatbot, an AI assistant designed to assist with insurance-related queries and interactions.
 
-Streamly is an AI Assistant that was designed to supercharge the development experience with the Streamlit framework. It acts as an AI-infused sidekick, offering on-the-fly assistance 🚀, code snippets ✂️, and a deep dive into Streamlit's rich api code. 🧪
+## Table of Contents
+1. Introduction
+2. Features
+3. Installation
+4. Usage
+5. Configuration
+6. Running the Application
+7. Contributing
+8. License
 
-## Dynamic Features:
+---
 
-- Interactive Chat Interface 💬: Engage in a lively chat with Streamly, asking anything from simple how-tos to complex Streamlit queries. The assistant is equipped to understand and respond with pertinent information, making the interaction both enriching and delightful.
+## Introduction:
 
-- Code Snippet Wizardry 🧙‍♂️: Streamly conjures up ready-to-use code snippets for common Streamlit scenarios. This magic is especially handy for beginners who are getting to grips with Streamlit and seasoned pros looking to expedite their code-writing spells.
+The Whitley-Newman (WN) Chatbot is an AI assistant built using Streamlit and OpenAI's GPT-3.5-Turbo-16k model. It aims to provide assistance to users seeking information and guidance related to insurance policies, claims, recommendations, and other insurance-related queries.
 
-- Update Oracle 📜: Always in the loop, Streamly taps into the latest happenings of the Streamlit universe. Whether it's a fresh release or a minor tweak, Streamly is your go-to source for the most recent and relevant Streamlit enlightenment.
+---
 
-- A Personal Touch 🎨: Decked out with custom CSS and the potential for further personalization, Streamly's UI/UX shines, offering a user experience that's both engaging and aesthetically pleasing.
+## Features:
 
-## Insightful Logic and Capabilities:
+- Basic Interactions:
+  - Ask about insurance policies.
+  - Seek recommendations.
+  - ...
 
-At the heart of Streamly lies a sophisticated AI engine 🤖, trained on a plethora of data, including the vast expanses of Streamlit's documentation, forums, and community contributions. This training enables the assistant to understand context, maintain conversational flow, and provide accurate, context-aware advice.
+- Advanced Interactions:
+  - Login using Microsoft.
+  - Request quotations.
+  - Handle claims.
+  - Assistance with product updates.
+  - ...
 
-Streamly's backend is a creative use of session state management, providing Streamly with a memory, making for a consistent and coherent conversation for all your coding assistances 🧠.
+---
 
-With Streamlit's caching mechanisms under the hood for performance optimization, and a comprehensive error handling protocol 🛠️, Streamly ensures a smooth sail through the sometimes choppy waters of coding challenges.
-
-Streamly embraces the future with open arms, designed to be extensible and modular. The integration of LangChain adds for a fuller and seamless conversational experience, making it not just an assistant but a developer's companion 🤝.
-
-In the vibrant world of Streamlit development, Streamly shines as a beacon of innovation and practicality. It's not just an AI assistant; it's a testament to the harmonious blend of human creativity and artificial intelligence, all wrapped up in a user-friendly package 🎁. Whether you're a novice coder or a seasoned developer, Streamly is here to light up your coding journey with a spark of AI brilliance ✨.
-
-## Setup Instructions
-
-To get Streamly up and running on your local machine, follow these steps:
-
-### Prerequisites
-
-- Python 3.10 or higher
-- Pip package manager
-
-### API Keys
-
-Use secrets.toml an add your OpenAI API key or set your enviroment variable OPENAI_API_KEY to your API key.
-
-### Installation
+## Installation:
 
 1. Clone the repository:
+   git clone https://github.com/rosariogabe/WN-Chatbot-Development-.git
 
-```bash
-git clone https://github.com/AdieLaine/Streamly.git
-cd streamly
-```
+2. Navigate to the project directory:
+   cd WN-Chatbot-Development-
 
-2. Create and activate a virtual environment (optional but recommended):
-```bash
-python3 -m venv venv
-source venv/bin/activate # On Windows use venv\Scripts\activate
-```
+3. Install dependencies:
+   pip install -r requirements.txt
 
-3. Install the required packages:
+---
 
-```bash
-pip install -r requirements.txt
-```
+## Usage:
 
-### Running the Application
+To run the chatbot application, execute the following command:
+streamlit run main.py
+
+The chatbot will be accessible via a web browser at the specified URL.
+
+---
+
+## Configuration:
+
+Before running the chatbot, ensure that the config.json file is properly configured with the necessary API keys and other environment variables.
+
+---
+
+## Cloud Environment:
+
+### Azure OpenAI Cloud Environment Setup for GPT-3.5-Turbo-16k
+
+To create an Azure OpenAI cloud environment for using GPT-3.5-Turbo-16k, follow these steps:
+
+1. **Sign in to Azure Portal**: Visit [https://portal.azure.com/](https://portal.azure.com/) and sign in to your Azure account.
+
+2. **Create a Resource Group**: Resource groups help you manage and organize your Azure resources. You can create a new resource group by navigating to "Resource groups" in the Azure Portal and clicking on "Create resource group".
+
+3. **Create an Azure OpenAI resource**:
+   - In the Azure Portal, click on "Create a resource".
+   - Search for "OpenAI" in the Azure Marketplace.
+   - Select the "OpenAI" resource.
+   - Click on "Create" to begin the creation process.
+   - Provide necessary details such as resource name, subscription, resource group, region, etc.
+   - Review and confirm the configuration, then click on "Create" to deploy the resource.
+
+4. **Configure Access and Authentication**:
+   - Once the resource is deployed, navigate to the resource in the Azure Portal.
+   - Configure access and authentication settings as per your requirements. This may include setting up API keys, managing authentication tokens, and defining access policies.
+
+5. **Integration with your Application**:
+   - Retrieve the API endpoint and API key from the Azure OpenAI resource you created.
+   - Use the provided API endpoint and API key to integrate GPT-3.5-Turbo-16k into your application.
+   - Follow the documentation provided by Microsoft for integrating Azure OpenAI into your application. This may involve using SDKs, REST APIs, or client libraries depending on your application's programming language and requirements.
+
+6. **Testing and Optimization**:
+   - Test your application to ensure that it properly integrates with Azure OpenAI and utilizes GPT-3.5-Turbo-16k as expected.
+   - Optimize your application's usage of Azure OpenAI by fine-tuning parameters such as temperature, max_tokens, top_p, frequency_penalty, and presence_penalty to achieve the desired results.
+
+7. **Monitoring and Management**:
+   - Monitor the performance and usage of your Azure OpenAI resource using Azure monitoring tools.
+   - Manage your resource by adjusting configurations, scaling resources up or down, and implementing security measures as needed.
+
+## Test Environment:
+
+A live test environment of the Whitley-Newman (WN) Chatbot is available at https://whitley-newman.streamlit.app/. You can use this environment to interact with the chatbot and test its functionalities.
+
+
+## Running the Application:
 
 To run Streamly, execute the following command:
 
 ```bash
 streamlit run streamly.py
-```
 
-This will start the Streamlit server, and you should see output indicating the local URL where the app is being served, typically `http://localhost:8501`.
-
-## Using Streamly
-
-After launching Streamly, you can interact with it in the following ways:
-
-- **Chat Interface**: Simply type your Streamlit-related queries into the chat interface and hit send. Streamly will respond with insights, code snippets, or guidance based on your questions.
-
-- **Code Examples**: Ask for code examples by typing queries such as "How do I create a sidebar in Streamlit?" and Streamly will provide you with the relevant code.
-
-- **Latest Updates**: To get the latest updates from Streamlit, type "What's new with Streamlit?" or similar questions.
-
-Remember to check the sidebar for additional features and settings that you can customize according to your needs.
-
-## Contributions
-
-If you'd like to contribute to Streamly, please fork the repository and create a pull request with your features or fixes.
-
-## License
-
-Streamly is released under the [MIT License](LICENSE). See the `LICENSE` file for more details.
+---

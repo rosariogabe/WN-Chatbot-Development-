@@ -4,16 +4,18 @@ Auto insurance premiums are calculated based on a variety of factors, including 
 How are auto insurance premiums calculated?
 
 
-Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 6.
+Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 11.
 Make choices based on provided facts, don't imply nor make up stuff.
 
 Detailed Guidelines for how to choose:
     choose 1 if the question is about auto insurance premium.
-    choose 2 if the question is about home flood insurance.
-    choose 3 if the question is irrelevant of insurance.
-    choose 4 if the question is chit chat.
-    choose 5 if the question is about ending conversation.
-    choose 6 if the question is just a continuation of previous question.
+    choose 2 if the question is about billing and payments.
+    choose 3 if the question is about claims processing.
+    choose 4 if the question is just a continuation of previous question.
+    choose 5 if the question is about coverage options.
+    choose 6 if the question is just the end conversation.
+    choose 7 if the question is irrelevant of insurance.
+    choose 8 if the question is about property insurance.    
 Choose one correct number: 
 "
 1,"How can I save money on my auto insurance premiums?
@@ -21,16 +23,18 @@ There are a number of ways to save money on your auto insurance premiums, includ
 How can I save money on my auto insurance premiums?
 
 
-Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 6.
+Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 11.
 Make choices based on provided facts, don't imply nor make up stuff.
 
 Detailed Guidelines for how to choose:
     choose 1 if the question is about auto insurance premium.
-    choose 2 if the question is about home flood insurance.
-    choose 3 if the question is irrelevant of insurance.
-    choose 4 if the question is chit chat.
-    choose 5 if the question is about ending conversation.
-    choose 6 if the question is just a continuation of previous question.
+    choose 2 if the question is about billing and payments.
+    choose 3 if the question is about claims processing.
+    choose 4 if the question is just a continuation of previous question.
+    choose 5 if the question is about coverage options.
+    choose 6 if the question is just the end conversation.
+    choose 7 if the question is irrelevant of insurance.
+    choose 8 if the question is about property insurance.    
 Choose one correct number: 
 "
 2,"How do I know if I need to purchase auto insurance?
@@ -38,16 +42,18 @@ If you drive a car in the United States, you are required by law to have auto in
 How do I know if I need to purchase auto insurance?
 
 
-Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 6.
+Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 11.
 Make choices based on provided facts, don't imply nor make up stuff.
 
 Detailed Guidelines for how to choose:
     choose 1 if the question is about auto insurance premium.
-    choose 2 if the question is about home flood insurance.
-    choose 3 if the question is irrelevant of insurance.
-    choose 4 if the question is chit chat.
-    choose 5 if the question is about ending conversation.
-    choose 6 if the question is just a continuation of previous question.
+    choose 2 if the question is about billing and payments.
+    choose 3 if the question is about claims processing.
+    choose 4 if the question is just a continuation of previous question.
+    choose 5 if the question is about coverage options.
+    choose 6 if the question is just the end conversation.
+    choose 7 if the question is irrelevant of insurance.
+    choose 8 if the question is about property insurance.    
 Choose one correct number: 
 "
 3,"What factors affect my auto insurance premiums?
@@ -55,16 +61,18 @@ The make and model of your car, your driving record, and the amount of coverage 
 What factors affect my auto insurance premiums?
 
 
-Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 6.
+Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 11.
 Make choices based on provided facts, don't imply nor make up stuff.
 
 Detailed Guidelines for how to choose:
     choose 1 if the question is about auto insurance premium.
-    choose 2 if the question is about home flood insurance.
-    choose 3 if the question is irrelevant of insurance.
-    choose 4 if the question is chit chat.
-    choose 5 if the question is about ending conversation.
-    choose 6 if the question is just a continuation of previous question.
+    choose 2 if the question is about billing and payments.
+    choose 3 if the question is about claims processing.
+    choose 4 if the question is just a continuation of previous question.
+    choose 5 if the question is about coverage options.
+    choose 6 if the question is just the end conversation.
+    choose 7 if the question is irrelevant of insurance.
+    choose 8 if the question is about property insurance.    
 Choose one correct number: 
 "
 4,"What is the minimum amount of auto insurance coverage I am required to have?
@@ -72,16 +80,18 @@ The minimum amount of auto insurance coverage you are required to have varies by
 What is the minimum amount of auto insurance coverage I am required to have?
 
 
-Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 6.
+Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 11.
 Make choices based on provided facts, don't imply nor make up stuff.
 
 Detailed Guidelines for how to choose:
     choose 1 if the question is about auto insurance premium.
-    choose 2 if the question is about home flood insurance.
-    choose 3 if the question is irrelevant of insurance.
-    choose 4 if the question is chit chat.
-    choose 5 if the question is about ending conversation.
-    choose 6 if the question is just a continuation of previous question.
+    choose 2 if the question is about billing and payments.
+    choose 3 if the question is about claims processing.
+    choose 4 if the question is just a continuation of previous question.
+    choose 5 if the question is about coverage options.
+    choose 6 if the question is just the end conversation.
+    choose 7 if the question is irrelevant of insurance.
+    choose 8 if the question is about property insurance.    
 Choose one correct number: 
 "
 5,"What is the difference between liability coverage and comprehensive coverage?
@@ -89,16 +99,18 @@ Liability coverage pays for damages that you are liable for in an accident, whil
 What is the difference between liability coverage and comprehensive coverage?
 
 
-Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 6.
+Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 11.
 Make choices based on provided facts, don't imply nor make up stuff.
 
 Detailed Guidelines for how to choose:
     choose 1 if the question is about auto insurance premium.
-    choose 2 if the question is about home flood insurance.
-    choose 3 if the question is irrelevant of insurance.
-    choose 4 if the question is chit chat.
-    choose 5 if the question is about ending conversation.
-    choose 6 if the question is just a continuation of previous question.
+    choose 2 if the question is about billing and payments.
+    choose 3 if the question is about claims processing.
+    choose 4 if the question is just a continuation of previous question.
+    choose 5 if the question is about coverage options.
+    choose 6 if the question is just the end conversation.
+    choose 7 if the question is irrelevant of insurance.
+    choose 8 if the question is about property insurance.    
 Choose one correct number: 
 "
 6,"What is the deductible on my auto insurance policy?
@@ -106,16 +118,18 @@ The deductible is the amount of money you are responsible for paying out of pock
 What is the deductible on my auto insurance policy?
 
 
-Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 6.
+Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 11.
 Make choices based on provided facts, don't imply nor make up stuff.
 
 Detailed Guidelines for how to choose:
     choose 1 if the question is about auto insurance premium.
-    choose 2 if the question is about home flood insurance.
-    choose 3 if the question is irrelevant of insurance.
-    choose 4 if the question is chit chat.
-    choose 5 if the question is about ending conversation.
-    choose 6 if the question is just a continuation of previous question.
+    choose 2 if the question is about billing and payments.
+    choose 3 if the question is about claims processing.
+    choose 4 if the question is just a continuation of previous question.
+    choose 5 if the question is about coverage options.
+    choose 6 if the question is just the end conversation.
+    choose 7 if the question is irrelevant of insurance.
+    choose 8 if the question is about property insurance.    
 Choose one correct number: 
 "
 7,"What happens if I am involved in an accident and do not have enough auto insurance coverage?
@@ -123,16 +137,18 @@ If you are involved in an accident and do not have enough auto insurance coverag
 What happens if I am involved in an accident and do not have enough auto insurance coverage?
 
 
-Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 6.
+Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 11.
 Make choices based on provided facts, don't imply nor make up stuff.
 
 Detailed Guidelines for how to choose:
     choose 1 if the question is about auto insurance premium.
-    choose 2 if the question is about home flood insurance.
-    choose 3 if the question is irrelevant of insurance.
-    choose 4 if the question is chit chat.
-    choose 5 if the question is about ending conversation.
-    choose 6 if the question is just a continuation of previous question.
+    choose 2 if the question is about billing and payments.
+    choose 3 if the question is about claims processing.
+    choose 4 if the question is just a continuation of previous question.
+    choose 5 if the question is about coverage options.
+    choose 6 if the question is just the end conversation.
+    choose 7 if the question is irrelevant of insurance.
+    choose 8 if the question is about property insurance.    
 Choose one correct number: 
 "
 8,"Can I choose my own auto insurance company?
@@ -140,16 +156,18 @@ You can choose your own auto insurance company, but be sure to compare rates bet
 Can I choose my own auto insurance company?
 
 
-Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 6.
+Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 11.
 Make choices based on provided facts, don't imply nor make up stuff.
 
 Detailed Guidelines for how to choose:
     choose 1 if the question is about auto insurance premium.
-    choose 2 if the question is about home flood insurance.
-    choose 3 if the question is irrelevant of insurance.
-    choose 4 if the question is chit chat.
-    choose 5 if the question is about ending conversation.
-    choose 6 if the question is just a continuation of previous question.
+    choose 2 if the question is about billing and payments.
+    choose 3 if the question is about claims processing.
+    choose 4 if the question is just a continuation of previous question.
+    choose 5 if the question is about coverage options.
+    choose 6 if the question is just the end conversation.
+    choose 7 if the question is irrelevant of insurance.
+    choose 8 if the question is about property insurance.    
 Choose one correct number: 
 "
 9,"What is the best way to save money on auto insurance premiums?
@@ -157,196 +175,218 @@ The best way to save money on auto insurance premiums is to choose a higher cove
 What is the best way to save money on auto insurance premiums?
 
 
-Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 6.
+Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 11.
 Make choices based on provided facts, don't imply nor make up stuff.
 
 Detailed Guidelines for how to choose:
     choose 1 if the question is about auto insurance premium.
-    choose 2 if the question is about home flood insurance.
-    choose 3 if the question is irrelevant of insurance.
-    choose 4 if the question is chit chat.
-    choose 5 if the question is about ending conversation.
-    choose 6 if the question is just a continuation of previous question.
+    choose 2 if the question is about billing and payments.
+    choose 3 if the question is about claims processing.
+    choose 4 if the question is just a continuation of previous question.
+    choose 5 if the question is about coverage options.
+    choose 6 if the question is just the end conversation.
+    choose 7 if the question is irrelevant of insurance.
+    choose 8 if the question is about property insurance.    
 Choose one correct number: 
 "
 10,"What is flood insurance?
 
-Flood insurance is insurance that helps protect your home and belongings from damage caused by flooding. It can help pay to repair or replace your home and belongings if they are damaged or destroyed by a flood.",home flood insurance,What is flood insurance?,Flood insurance is insurance that helps protect your home and belongings from damage caused by flooding. It can help pay to repair or replace your home and belongings if they are damaged or destroyed by a flood.,2, 2 END,What is flood insurance?,"Insurer's question:
+Flood insurance is insurance that helps protect your home and belongings from damage caused by flooding. It can help pay to repair or replace your home and belongings if they are damaged or destroyed by a flood.",property insurance,What is flood insurance?,Flood insurance is insurance that helps protect your home and belongings from damage caused by flooding. It can help pay to repair or replace your home and belongings if they are damaged or destroyed by a flood.,8, 8 END,What is flood insurance?,"Insurer's question:
 What is flood insurance?
 
 
-Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 6.
+Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 11.
 Make choices based on provided facts, don't imply nor make up stuff.
 
 Detailed Guidelines for how to choose:
     choose 1 if the question is about auto insurance premium.
-    choose 2 if the question is about home flood insurance.
-    choose 3 if the question is irrelevant of insurance.
-    choose 4 if the question is chit chat.
-    choose 5 if the question is about ending conversation.
-    choose 6 if the question is just a continuation of previous question.
+    choose 2 if the question is about billing and payments.
+    choose 3 if the question is about claims processing.
+    choose 4 if the question is just a continuation of previous question.
+    choose 5 if the question is about coverage options.
+    choose 6 if the question is just the end conversation.
+    choose 7 if the question is irrelevant of insurance.
+    choose 8 if the question is about property insurance.    
 Choose one correct number: 
 "
 11,"Why do I need flood insurance?
 
-Floods are one of the most common natural disasters in the United States. Even if you live in an area that is not prone to flooding, you may still be at risk. Flooding can occur anywhere, anytime, and often without warning. That's why it's important to have flood insurance, even if your mortgage lender doesn't require it.",home flood insurance,Why do I need flood insurance?,"Floods are one of the most common natural disasters in the United States. Even if you live in an area that is not prone to flooding, you may still be at risk. Flooding can occur anywhere, anytime, and often without warning. That's why it's important to have flood insurance, even if your mortgage lender doesn't require it.",2, 2 END,Why do I need flood insurance?,"Insurer's question:
+Floods are one of the most common natural disasters in the United States. Even if you live in an area that is not prone to flooding, you may still be at risk. Flooding can occur anywhere, anytime, and often without warning. That's why it's important to have flood insurance, even if your mortgage lender doesn't require it.",property insurance,Why do I need flood insurance?,"Floods are one of the most common natural disasters in the United States. Even if you live in an area that is not prone to flooding, you may still be at risk. Flooding can occur anywhere, anytime, and often without warning. That's why it's important to have flood insurance, even if your mortgage lender doesn't require it.",8, 8 END,Why do I need flood insurance?,"Insurer's question:
 Why do I need flood insurance?
 
 
-Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 6.
+Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 11.
 Make choices based on provided facts, don't imply nor make up stuff.
 
 Detailed Guidelines for how to choose:
     choose 1 if the question is about auto insurance premium.
-    choose 2 if the question is about home flood insurance.
-    choose 3 if the question is irrelevant of insurance.
-    choose 4 if the question is chit chat.
-    choose 5 if the question is about ending conversation.
-    choose 6 if the question is just a continuation of previous question.
+    choose 2 if the question is about billing and payments.
+    choose 3 if the question is about claims processing.
+    choose 4 if the question is just a continuation of previous question.
+    choose 5 if the question is about coverage options.
+    choose 6 if the question is just the end conversation.
+    choose 7 if the question is irrelevant of insurance.
+    choose 8 if the question is about property insurance.    
 Choose one correct number: 
 "
 12,"How much does flood insurance cost?
 
-The cost of flood insurance depends on a number of factors, including the value of your home and belongings, the amount of coverage you need, and the flood zone where your home is located.",home flood insurance,How much does flood insurance cost?,"The cost of flood insurance depends on a number of factors, including the value of your home and belongings, the amount of coverage you need, and the flood zone where your home is located.",2, 2 END,How much does flood insurance cost?,"Insurer's question:
+The cost of flood insurance depends on a number of factors, including the value of your home and belongings, the amount of coverage you need, and the flood zone where your home is located.",property insurance,How much does flood insurance cost?,"The cost of flood insurance depends on a number of factors, including the value of your home and belongings, the amount of coverage you need, and the flood zone where your home is located.",8, 8 END,How much does flood insurance cost?,"Insurer's question:
 How much does flood insurance cost?
 
 
-Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 6.
+Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 11.
 Make choices based on provided facts, don't imply nor make up stuff.
 
 Detailed Guidelines for how to choose:
     choose 1 if the question is about auto insurance premium.
-    choose 2 if the question is about home flood insurance.
-    choose 3 if the question is irrelevant of insurance.
-    choose 4 if the question is chit chat.
-    choose 5 if the question is about ending conversation.
-    choose 6 if the question is just a continuation of previous question.
+    choose 2 if the question is about billing and payments.
+    choose 3 if the question is about claims processing.
+    choose 4 if the question is just a continuation of previous question.
+    choose 5 if the question is about coverage options.
+    choose 6 if the question is just the end conversation.
+    choose 7 if the question is irrelevant of insurance.
+    choose 8 if the question is about property insurance.    
 Choose one correct number: 
 "
 13,"What does flood insurance cover?
 
-Flood insurance can help cover the cost to repair or replace your home and belongings if they are damaged or destroyed by a flood. It can also help pay for temporary living expenses if your home is uninhabitable due to flood damage.",home flood insurance,What does flood insurance cover?,Flood insurance can help cover the cost to repair or replace your home and belongings if they are damaged or destroyed by a flood. It can also help pay for temporary living expenses if your home is uninhabitable due to flood damage.,2, 2 END,What does flood insurance cover?,"Insurer's question:
+Flood insurance can help cover the cost to repair or replace your home and belongings if they are damaged or destroyed by a flood. It can also help pay for temporary living expenses if your home is uninhabitable due to flood damage.",property insurance,What does flood insurance cover?,Flood insurance can help cover the cost to repair or replace your home and belongings if they are damaged or destroyed by a flood. It can also help pay for temporary living expenses if your home is uninhabitable due to flood damage.,8, 8 END,What does flood insurance cover?,"Insurer's question:
 What does flood insurance cover?
 
 
-Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 6.
+Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 11.
 Make choices based on provided facts, don't imply nor make up stuff.
 
 Detailed Guidelines for how to choose:
     choose 1 if the question is about auto insurance premium.
-    choose 2 if the question is about home flood insurance.
-    choose 3 if the question is irrelevant of insurance.
-    choose 4 if the question is chit chat.
-    choose 5 if the question is about ending conversation.
-    choose 6 if the question is just a continuation of previous question.
+    choose 2 if the question is about billing and payments.
+    choose 3 if the question is about claims processing.
+    choose 4 if the question is just a continuation of previous question.
+    choose 5 if the question is about coverage options.
+    choose 6 if the question is just the end conversation.
+    choose 7 if the question is irrelevant of insurance.
+    choose 8 if the question is about property insurance.    
 Choose one correct number: 
 "
 14,"What does flood insurance not cover?
 
-Flood insurance does not cover damage caused by water that enters your home through windows or doors. It also does not cover damage to your home's foundation, garage, or other structures not attached to your home.",home flood insurance,What does flood insurance not cover?,"Flood insurance does not cover damage caused by water that enters your home through windows or doors. It also does not cover damage to your home's foundation, garage, or other structures not attached to your home.",2, 2 END,What does flood insurance not cover?,"Insurer's question:
+Flood insurance does not cover damage caused by water that enters your home through windows or doors. It also does not cover damage to your home's foundation, garage, or other structures not attached to your home.",property insurance,What does flood insurance not cover?,"Flood insurance does not cover damage caused by water that enters your home through windows or doors. It also does not cover damage to your home's foundation, garage, or other structures not attached to your home.",8, 8 END,What does flood insurance not cover?,"Insurer's question:
 What does flood insurance not cover?
 
 
-Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 6.
+Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 11.
 Make choices based on provided facts, don't imply nor make up stuff.
 
 Detailed Guidelines for how to choose:
     choose 1 if the question is about auto insurance premium.
-    choose 2 if the question is about home flood insurance.
-    choose 3 if the question is irrelevant of insurance.
-    choose 4 if the question is chit chat.
-    choose 5 if the question is about ending conversation.
-    choose 6 if the question is just a continuation of previous question.
+    choose 2 if the question is about billing and payments.
+    choose 3 if the question is about claims processing.
+    choose 4 if the question is just a continuation of previous question.
+    choose 5 if the question is about coverage options.
+    choose 6 if the question is just the end conversation.
+    choose 7 if the question is irrelevant of insurance.
+    choose 8 if the question is about property insurance.    
 Choose one correct number: 
 "
 15,"How do I get flood insurance?
 
-You can purchase flood insurance through most insurance companies. You can also contact the National Flood Insurance Program (NFIP) to purchase flood insurance.",home flood insurance,How do I get flood insurance?,You can purchase flood insurance through most insurance companies. You can also contact the National Flood Insurance Program (NFIP) to purchase flood insurance.,2, 2 END,How do I get flood insurance?,"Insurer's question:
+You can purchase flood insurance through most insurance companies. You can also contact the National Flood Insurance Program (NFIP) to purchase flood insurance.",property insurance,How do I get flood insurance?,You can purchase flood insurance through most insurance companies. You can also contact the National Flood Insurance Program (NFIP) to purchase flood insurance.,8, 8 END,How do I get flood insurance?,"Insurer's question:
 How do I get flood insurance?
 
 
-Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 6.
+Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 11.
 Make choices based on provided facts, don't imply nor make up stuff.
 
 Detailed Guidelines for how to choose:
     choose 1 if the question is about auto insurance premium.
-    choose 2 if the question is about home flood insurance.
-    choose 3 if the question is irrelevant of insurance.
-    choose 4 if the question is chit chat.
-    choose 5 if the question is about ending conversation.
-    choose 6 if the question is just a continuation of previous question.
+    choose 2 if the question is about billing and payments.
+    choose 3 if the question is about claims processing.
+    choose 4 if the question is just a continuation of previous question.
+    choose 5 if the question is about coverage options.
+    choose 6 if the question is just the end conversation.
+    choose 7 if the question is irrelevant of insurance.
+    choose 8 if the question is about property insurance.    
 Choose one correct number: 
 "
 16,"How long does it take for flood insurance to go into effect?
 
-Flood insurance policies have a 30-day waiting period before they go into effect. This means that you will not be covered for any damage that occurs within the first 30 days of your policy.",home flood insurance,How long does it take for flood insurance to go into effect?,Flood insurance policies have a 30-day waiting period before they go into effect. This means that you will not be covered for any damage that occurs within the first 30 days of your policy.,2, 2 END,How long does it take for flood insurance to go into effect?,"Insurer's question:
+Flood insurance policies have a 30-day waiting period before they go into effect. This means that you will not be covered for any damage that occurs within the first 30 days of your policy.",property insurance,How long does it take for flood insurance to go into effect?,Flood insurance policies have a 30-day waiting period before they go into effect. This means that you will not be covered for any damage that occurs within the first 30 days of your policy.,8, 8 END,How long does it take for flood insurance to go into effect?,"Insurer's question:
 How long does it take for flood insurance to go into effect?
 
 
-Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 6.
+Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 11.
 Make choices based on provided facts, don't imply nor make up stuff.
 
 Detailed Guidelines for how to choose:
     choose 1 if the question is about auto insurance premium.
-    choose 2 if the question is about home flood insurance.
-    choose 3 if the question is irrelevant of insurance.
-    choose 4 if the question is chit chat.
-    choose 5 if the question is about ending conversation.
-    choose 6 if the question is just a continuation of previous question.
+    choose 2 if the question is about billing and payments.
+    choose 3 if the question is about claims processing.
+    choose 4 if the question is just a continuation of previous question.
+    choose 5 if the question is about coverage options.
+    choose 6 if the question is just the end conversation.
+    choose 7 if the question is irrelevant of insurance.
+    choose 8 if the question is about property insurance.    
 Choose one correct number: 
 "
 17,"Do I need to buy flood insurance if I live in a low-risk area?
 
-Yes. Even if you live in a low-risk area, you may still be at risk for flooding. Flooding can occur anywhere, anytime, and often without warning. That's why it's important to have flood insurance, even if your mortgage lender doesn't require it.",home flood insurance,Do I need to buy flood insurance if I live in a low-risk area?,"Yes. Even if you live in a low-risk area, you may still be at risk for flooding. Flooding can occur anywhere, anytime, and often without warning. That's why it's important to have flood insurance, even if your mortgage lender doesn't require it.",2, 2 END,Do I need to buy flood insurance if I live in a low-risk area?,"Insurer's question:
+Yes. Even if you live in a low-risk area, you may still be at risk for flooding. Flooding can occur anywhere, anytime, and often without warning. That's why it's important to have flood insurance, even if your mortgage lender doesn't require it.",property insurance,Do I need to buy flood insurance if I live in a low-risk area?,"Yes. Even if you live in a low-risk area, you may still be at risk for flooding. Flooding can occur anywhere, anytime, and often without warning. That's why it's important to have flood insurance, even if your mortgage lender doesn't require it.",8, 8 END,Do I need to buy flood insurance if I live in a low-risk area?,"Insurer's question:
 Do I need to buy flood insurance if I live in a low-risk area?
 
 
-Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 6.
+Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 11.
 Make choices based on provided facts, don't imply nor make up stuff.
 
 Detailed Guidelines for how to choose:
     choose 1 if the question is about auto insurance premium.
-    choose 2 if the question is about home flood insurance.
-    choose 3 if the question is irrelevant of insurance.
-    choose 4 if the question is chit chat.
-    choose 5 if the question is about ending conversation.
-    choose 6 if the question is just a continuation of previous question.
+    choose 2 if the question is about billing and payments.
+    choose 3 if the question is about claims processing.
+    choose 4 if the question is just a continuation of previous question.
+    choose 5 if the question is about coverage options.
+    choose 6 if the question is just the end conversation.
+    choose 7 if the question is irrelevant of insurance.
+    choose 8 if the question is about property insurance.    
 Choose one correct number: 
 "
 18,"I just bought a new home. Do I need to buy flood insurance?
 
-If your home is located in a high-risk flood zone, your mortgage lender will require you to purchase flood insurance. If your home is located in a low-risk flood zone, you may still purchase flood insurance, but it is not required.",home flood insurance,I just bought a new home. Do I need to buy flood insurance?,"If your home is located in a high-risk flood zone, your mortgage lender will require you to purchase flood insurance. If your home is located in a low-risk flood zone, you may still purchase flood insurance, but it is not required.",2, 2 END,I just bought a new home. Do I need to buy flood insurance?,"Insurer's question:
+If your home is located in a high-risk flood zone, your mortgage lender will require you to purchase flood insurance. If your home is located in a low-risk flood zone, you may still purchase flood insurance, but it is not required.",property insurance,I just bought a new home. Do I need to buy flood insurance?,"If your home is located in a high-risk flood zone, your mortgage lender will require you to purchase flood insurance. If your home is located in a low-risk flood zone, you may still purchase flood insurance, but it is not required.",8, 8 END,I just bought a new home. Do I need to buy flood insurance?,"Insurer's question:
 I just bought a new home. Do I need to buy flood insurance?
 
 
-Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 6.
+Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 11.
 Make choices based on provided facts, don't imply nor make up stuff.
 
 Detailed Guidelines for how to choose:
     choose 1 if the question is about auto insurance premium.
-    choose 2 if the question is about home flood insurance.
-    choose 3 if the question is irrelevant of insurance.
-    choose 4 if the question is chit chat.
-    choose 5 if the question is about ending conversation.
-    choose 6 if the question is just a continuation of previous question.
+    choose 2 if the question is about billing and payments.
+    choose 3 if the question is about claims processing.
+    choose 4 if the question is just a continuation of previous question.
+    choose 5 if the question is about coverage options.
+    choose 6 if the question is just the end conversation.
+    choose 7 if the question is irrelevant of insurance.
+    choose 8 if the question is about property insurance.    
 Choose one correct number: 
 "
 19,"I'm renting a home. Do I need to buy flood insurance?
 
-If you are renting a home, your landlord is responsible for purchasing flood insurance. However, you may still purchase flood insurance to help protect your belongings.",home flood insurance,I'm renting a home. Do I need to buy flood insurance?,"If you are renting a home, your landlord is responsible for purchasing flood insurance. However, you may still purchase flood insurance to help protect your belongings.",2, 2 END,I'm renting a home. Do I need to buy flood insurance?,"Insurer's question:
+If you are renting a home, your landlord is responsible for purchasing flood insurance. However, you may still purchase flood insurance to help protect your belongings.",property insurance,I'm renting a home. Do I need to buy flood insurance?,"If you are renting a home, your landlord is responsible for purchasing flood insurance. However, you may still purchase flood insurance to help protect your belongings.",8, 8 END,I'm renting a home. Do I need to buy flood insurance?,"Insurer's question:
 I'm renting a home. Do I need to buy flood insurance?
 
 
-Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 6.
+Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 11.
 Make choices based on provided facts, don't imply nor make up stuff.
 
 Detailed Guidelines for how to choose:
     choose 1 if the question is about auto insurance premium.
-    choose 2 if the question is about home flood insurance.
-    choose 3 if the question is irrelevant of insurance.
-    choose 4 if the question is chit chat.
-    choose 5 if the question is about ending conversation.
-    choose 6 if the question is just a continuation of previous question.
+    choose 2 if the question is about billing and payments.
+    choose 3 if the question is about claims processing.
+    choose 4 if the question is just a continuation of previous question.
+    choose 5 if the question is about coverage options.
+    choose 6 if the question is just the end conversation.
+    choose 7 if the question is irrelevant of insurance.
+    choose 8 if the question is about property insurance.    
 Choose one correct number: 
 "
 20,"How much will my premium be?
@@ -355,16 +395,18 @@ Your premium is based on a number of factors, including your driving history, th
 How much will my premium be?
 
 
-Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 6.
+Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 11.
 Make choices based on provided facts, don't imply nor make up stuff.
 
 Detailed Guidelines for how to choose:
     choose 1 if the question is about auto insurance premium.
-    choose 2 if the question is about home flood insurance.
-    choose 3 if the question is irrelevant of insurance.
-    choose 4 if the question is chit chat.
-    choose 5 if the question is about ending conversation.
-    choose 6 if the question is just a continuation of previous question.
+    choose 2 if the question is about billing and payments.
+    choose 3 if the question is about claims processing.
+    choose 4 if the question is just a continuation of previous question.
+    choose 5 if the question is about coverage options.
+    choose 6 if the question is just the end conversation.
+    choose 7 if the question is irrelevant of insurance.
+    choose 8 if the question is about property insurance.    
 Choose one correct number: 
 "
 21,"When do I need to pay my premium?
@@ -373,16 +415,18 @@ Most auto insurance companies require you to pay your premium in full every six 
 When do I need to pay my premium?
 
 
-Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 6.
+Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 11.
 Make choices based on provided facts, don't imply nor make up stuff.
 
 Detailed Guidelines for how to choose:
     choose 1 if the question is about auto insurance premium.
-    choose 2 if the question is about home flood insurance.
-    choose 3 if the question is irrelevant of insurance.
-    choose 4 if the question is chit chat.
-    choose 5 if the question is about ending conversation.
-    choose 6 if the question is just a continuation of previous question.
+    choose 2 if the question is about billing and payments.
+    choose 3 if the question is about claims processing.
+    choose 4 if the question is just a continuation of previous question.
+    choose 5 if the question is about coverage options.
+    choose 6 if the question is just the end conversation.
+    choose 7 if the question is irrelevant of insurance.
+    choose 8 if the question is about property insurance.    
 Choose one correct number: 
 "
 22,"What happens if I miss a payment?
@@ -391,16 +435,18 @@ If you miss a payment, your policy will likely be canceled.",auto insurance prem
 What happens if I miss a payment?
 
 
-Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 6.
+Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 11.
 Make choices based on provided facts, don't imply nor make up stuff.
 
 Detailed Guidelines for how to choose:
     choose 1 if the question is about auto insurance premium.
-    choose 2 if the question is about home flood insurance.
-    choose 3 if the question is irrelevant of insurance.
-    choose 4 if the question is chit chat.
-    choose 5 if the question is about ending conversation.
-    choose 6 if the question is just a continuation of previous question.
+    choose 2 if the question is about billing and payments.
+    choose 3 if the question is about claims processing.
+    choose 4 if the question is just a continuation of previous question.
+    choose 5 if the question is about coverage options.
+    choose 6 if the question is just the end conversation.
+    choose 7 if the question is irrelevant of insurance.
+    choose 8 if the question is about property insurance.    
 Choose one correct number: 
 "
 23,"Can I pay my premium in installments?
@@ -409,16 +455,18 @@ Some insurers allow you to pay your premium in installments, but there may be a 
 Can I pay my premium in installments?
 
 
-Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 6.
+Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 11.
 Make choices based on provided facts, don't imply nor make up stuff.
 
 Detailed Guidelines for how to choose:
     choose 1 if the question is about auto insurance premium.
-    choose 2 if the question is about home flood insurance.
-    choose 3 if the question is irrelevant of insurance.
-    choose 4 if the question is chit chat.
-    choose 5 if the question is about ending conversation.
-    choose 6 if the question is just a continuation of previous question.
+    choose 2 if the question is about billing and payments.
+    choose 3 if the question is about claims processing.
+    choose 4 if the question is just a continuation of previous question.
+    choose 5 if the question is about coverage options.
+    choose 6 if the question is just the end conversation.
+    choose 7 if the question is irrelevant of insurance.
+    choose 8 if the question is about property insurance.    
 Choose one correct number: 
 "
 24,"What is a deductible?
@@ -427,16 +475,18 @@ A deductible is the amount you will have to pay out of pocket before your insura
 What is a deductible?
 
 
-Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 6.
+Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 11.
 Make choices based on provided facts, don't imply nor make up stuff.
 
 Detailed Guidelines for how to choose:
     choose 1 if the question is about auto insurance premium.
-    choose 2 if the question is about home flood insurance.
-    choose 3 if the question is irrelevant of insurance.
-    choose 4 if the question is chit chat.
-    choose 5 if the question is about ending conversation.
-    choose 6 if the question is just a continuation of previous question.
+    choose 2 if the question is about billing and payments.
+    choose 3 if the question is about claims processing.
+    choose 4 if the question is just a continuation of previous question.
+    choose 5 if the question is about coverage options.
+    choose 6 if the question is just the end conversation.
+    choose 7 if the question is irrelevant of insurance.
+    choose 8 if the question is about property insurance.    
 Choose one correct number: 
 "
 25,"How much is my deductible?
@@ -445,16 +495,18 @@ Your deductible is typically set at $250 or $500, but it can vary depending on y
 How much is my deductible?
 
 
-Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 6.
+Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 11.
 Make choices based on provided facts, don't imply nor make up stuff.
 
 Detailed Guidelines for how to choose:
     choose 1 if the question is about auto insurance premium.
-    choose 2 if the question is about home flood insurance.
-    choose 3 if the question is irrelevant of insurance.
-    choose 4 if the question is chit chat.
-    choose 5 if the question is about ending conversation.
-    choose 6 if the question is just a continuation of previous question.
+    choose 2 if the question is about billing and payments.
+    choose 3 if the question is about claims processing.
+    choose 4 if the question is just a continuation of previous question.
+    choose 5 if the question is about coverage options.
+    choose 6 if the question is just the end conversation.
+    choose 7 if the question is irrelevant of insurance.
+    choose 8 if the question is about property insurance.    
 Choose one correct number: 
 "
 26,"What types of coverage are available?
@@ -463,16 +515,18 @@ There are a variety of auto insurance coverages available, including liability, 
 What types of coverage are available?
 
 
-Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 6.
+Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 11.
 Make choices based on provided facts, don't imply nor make up stuff.
 
 Detailed Guidelines for how to choose:
     choose 1 if the question is about auto insurance premium.
-    choose 2 if the question is about home flood insurance.
-    choose 3 if the question is irrelevant of insurance.
-    choose 4 if the question is chit chat.
-    choose 5 if the question is about ending conversation.
-    choose 6 if the question is just a continuation of previous question.
+    choose 2 if the question is about billing and payments.
+    choose 3 if the question is about claims processing.
+    choose 4 if the question is just a continuation of previous question.
+    choose 5 if the question is about coverage options.
+    choose 6 if the question is just the end conversation.
+    choose 7 if the question is irrelevant of insurance.
+    choose 8 if the question is about property insurance.    
 Choose one correct number: 
 "
 27,"What are the limits of my coverage?
@@ -481,16 +535,18 @@ Your coverage limits are the maximum amount your insurance company will pay in t
 What are the limits of my coverage?
 
 
-Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 6.
+Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 11.
 Make choices based on provided facts, don't imply nor make up stuff.
 
 Detailed Guidelines for how to choose:
     choose 1 if the question is about auto insurance premium.
-    choose 2 if the question is about home flood insurance.
-    choose 3 if the question is irrelevant of insurance.
-    choose 4 if the question is chit chat.
-    choose 5 if the question is about ending conversation.
-    choose 6 if the question is just a continuation of previous question.
+    choose 2 if the question is about billing and payments.
+    choose 3 if the question is about claims processing.
+    choose 4 if the question is just a continuation of previous question.
+    choose 5 if the question is about coverage options.
+    choose 6 if the question is just the end conversation.
+    choose 7 if the question is irrelevant of insurance.
+    choose 8 if the question is about property insurance.    
 Choose one correct number: 
 "
 28,"What is an exclusion?
@@ -499,16 +555,18 @@ An exclusion is something that is not covered by your auto insurance policy.",au
 What is an exclusion?
 
 
-Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 6.
+Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 11.
 Make choices based on provided facts, don't imply nor make up stuff.
 
 Detailed Guidelines for how to choose:
     choose 1 if the question is about auto insurance premium.
-    choose 2 if the question is about home flood insurance.
-    choose 3 if the question is irrelevant of insurance.
-    choose 4 if the question is chit chat.
-    choose 5 if the question is about ending conversation.
-    choose 6 if the question is just a continuation of previous question.
+    choose 2 if the question is about billing and payments.
+    choose 3 if the question is about claims processing.
+    choose 4 if the question is just a continuation of previous question.
+    choose 5 if the question is about coverage options.
+    choose 6 if the question is just the end conversation.
+    choose 7 if the question is irrelevant of insurance.
+    choose 8 if the question is about property insurance.    
 Choose one correct number: 
 "
 29,"Do I need gap insurance?
@@ -517,643 +575,830 @@ If you finance or lease your car, gap insurance may be required.",auto insurance
 Do I need gap insurance?
 
 
-Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 6.
+Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 11.
 Make choices based on provided facts, don't imply nor make up stuff.
 
 Detailed Guidelines for how to choose:
     choose 1 if the question is about auto insurance premium.
-    choose 2 if the question is about home flood insurance.
-    choose 3 if the question is irrelevant of insurance.
-    choose 4 if the question is chit chat.
-    choose 5 if the question is about ending conversation.
-    choose 6 if the question is just a continuation of previous question.
+    choose 2 if the question is about billing and payments.
+    choose 3 if the question is about claims processing.
+    choose 4 if the question is just a continuation of previous question.
+    choose 5 if the question is about coverage options.
+    choose 6 if the question is just the end conversation.
+    choose 7 if the question is irrelevant of insurance.
+    choose 8 if the question is about property insurance.    
 Choose one correct number: 
 "
 30,"How are you?
 
-I'm good, how can I help you today?",chit chat,How are you?,"I'm good, how can I help you today?",4, 4 END,How are you?,"Insurer's question:
+I'm good, how can I help you today?",irrelevant of insurance,How are you?,"I'm good, how can I help you today?",7, 7 END,How are you?,"Insurer's question:
 How are you?
 
 
-Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 6.
+Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 11.
 Make choices based on provided facts, don't imply nor make up stuff.
 
 Detailed Guidelines for how to choose:
     choose 1 if the question is about auto insurance premium.
-    choose 2 if the question is about home flood insurance.
-    choose 3 if the question is irrelevant of insurance.
-    choose 4 if the question is chit chat.
-    choose 5 if the question is about ending conversation.
-    choose 6 if the question is just a continuation of previous question.
+    choose 2 if the question is about billing and payments.
+    choose 3 if the question is about claims processing.
+    choose 4 if the question is just a continuation of previous question.
+    choose 5 if the question is about coverage options.
+    choose 6 if the question is just the end conversation.
+    choose 7 if the question is irrelevant of insurance.
+    choose 8 if the question is about property insurance.    
 Choose one correct number: 
 "
 31,"Hi, there?
 
-Hi, how can I help you today?",chit chat,"Hi, there?","Hi, how can I help you today?",4, 4 END,"Hi, there?","Insurer's question:
+Hi, how can I help you today?",irrelevant of insurance,"Hi, there?","Hi, how can I help you today?",7, 7 END,"Hi, there?","Insurer's question:
 Hi, there?
 
 
-Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 6.
+Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 11.
 Make choices based on provided facts, don't imply nor make up stuff.
 
 Detailed Guidelines for how to choose:
     choose 1 if the question is about auto insurance premium.
-    choose 2 if the question is about home flood insurance.
-    choose 3 if the question is irrelevant of insurance.
-    choose 4 if the question is chit chat.
-    choose 5 if the question is about ending conversation.
-    choose 6 if the question is just a continuation of previous question.
+    choose 2 if the question is about billing and payments.
+    choose 3 if the question is about claims processing.
+    choose 4 if the question is just a continuation of previous question.
+    choose 5 if the question is about coverage options.
+    choose 6 if the question is just the end conversation.
+    choose 7 if the question is irrelevant of insurance.
+    choose 8 if the question is about property insurance.    
 Choose one correct number: 
 "
 32,"Hi, are you doing well?
 
-I'm doing well, thank you. How can I help you today?",chit chat,"Hi, are you doing well?","I'm doing well, thank you. How can I help you today?",4, 4 END,"Hi, are you doing well?","Insurer's question:
+I'm doing well, thank you. How can I help you today?",irrelevant of insurance,"Hi, are you doing well?","I'm doing well, thank you. How can I help you today?",7, 7 END,"Hi, are you doing well?","Insurer's question:
 Hi, are you doing well?
 
 
-Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 6.
+Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 11.
 Make choices based on provided facts, don't imply nor make up stuff.
 
 Detailed Guidelines for how to choose:
     choose 1 if the question is about auto insurance premium.
-    choose 2 if the question is about home flood insurance.
-    choose 3 if the question is irrelevant of insurance.
-    choose 4 if the question is chit chat.
-    choose 5 if the question is about ending conversation.
-    choose 6 if the question is just a continuation of previous question.
+    choose 2 if the question is about billing and payments.
+    choose 3 if the question is about claims processing.
+    choose 4 if the question is just a continuation of previous question.
+    choose 5 if the question is about coverage options.
+    choose 6 if the question is just the end conversation.
+    choose 7 if the question is irrelevant of insurance.
+    choose 8 if the question is about property insurance.    
 Choose one correct number: 
 "
 33,"Hi, may I ask you a question?
 
-Of course. How can I help you today?",chit chat,"Hi, may I ask you a question?",Of course. How can I help you today?,4, 4 END,"Hi, may I ask you a question?","Insurer's question:
+Of course. How can I help you today?",irrelevant of insurance,"Hi, may I ask you a question?",Of course. How can I help you today?,7, 7 END,"Hi, may I ask you a question?","Insurer's question:
 Hi, may I ask you a question?
 
 
-Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 6.
+Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 11.
 Make choices based on provided facts, don't imply nor make up stuff.
 
 Detailed Guidelines for how to choose:
     choose 1 if the question is about auto insurance premium.
-    choose 2 if the question is about home flood insurance.
-    choose 3 if the question is irrelevant of insurance.
-    choose 4 if the question is chit chat.
-    choose 5 if the question is about ending conversation.
-    choose 6 if the question is just a continuation of previous question.
+    choose 2 if the question is about billing and payments.
+    choose 3 if the question is about claims processing.
+    choose 4 if the question is just a continuation of previous question.
+    choose 5 if the question is about coverage options.
+    choose 6 if the question is just the end conversation.
+    choose 7 if the question is irrelevant of insurance.
+    choose 8 if the question is about property insurance.    
 Choose one correct number: 
 "
 34,"Hello!
 
-Hi, how can I help you today?",chit chat,Hello!,"Hi, how can I help you today?",4, 4 END,Hello!,"Insurer's question:
+Hi, how can I help you today?",irrelevant of insurance,Hello!,"Hi, how can I help you today?",7, 7 END,Hello!,"Insurer's question:
 Hello!
 
 
-Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 6.
+Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 11.
 Make choices based on provided facts, don't imply nor make up stuff.
 
 Detailed Guidelines for how to choose:
     choose 1 if the question is about auto insurance premium.
-    choose 2 if the question is about home flood insurance.
-    choose 3 if the question is irrelevant of insurance.
-    choose 4 if the question is chit chat.
-    choose 5 if the question is about ending conversation.
-    choose 6 if the question is just a continuation of previous question.
+    choose 2 if the question is about billing and payments.
+    choose 3 if the question is about claims processing.
+    choose 4 if the question is just a continuation of previous question.
+    choose 5 if the question is about coverage options.
+    choose 6 if the question is just the end conversation.
+    choose 7 if the question is irrelevant of insurance.
+    choose 8 if the question is about property insurance.    
 Choose one correct number: 
 "
 35,"Hey, there!
 
-Hi, how can I help you today?",chit chat,"Hey, there!","Hi, how can I help you today?",4, 4 END,"Hey, there!","Insurer's question:
+Hi, how can I help you today?",irrelevant of insurance,"Hey, there!","Hi, how can I help you today?",7, 7 END,"Hey, there!","Insurer's question:
 Hey, there!
 
 
-Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 6.
+Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 11.
 Make choices based on provided facts, don't imply nor make up stuff.
 
 Detailed Guidelines for how to choose:
     choose 1 if the question is about auto insurance premium.
-    choose 2 if the question is about home flood insurance.
-    choose 3 if the question is irrelevant of insurance.
-    choose 4 if the question is chit chat.
-    choose 5 if the question is about ending conversation.
-    choose 6 if the question is just a continuation of previous question.
+    choose 2 if the question is about billing and payments.
+    choose 3 if the question is about claims processing.
+    choose 4 if the question is just a continuation of previous question.
+    choose 5 if the question is about coverage options.
+    choose 6 if the question is just the end conversation.
+    choose 7 if the question is irrelevant of insurance.
+    choose 8 if the question is about property insurance.    
 Choose one correct number: 
 "
 36,"What are some good food choices to help me stay healthy and fit?
 
-There are a lot of different opinions on what the best food choices are, but some general guidelines are to try to eat mostly fruits, vegetables, and whole grains, and to avoid processed foods and sugary drinks. You may also want to consider whether you are trying to lose weight, maintain your weight, or gain weight, and tailor your food choices accordingly.",irrelevant of insurance,What are some good food choices to help me stay healthy and fit?,"There are a lot of different opinions on what the best food choices are, but some general guidelines are to try to eat mostly fruits, vegetables, and whole grains, and to avoid processed foods and sugary drinks. You may also want to consider whether you are trying to lose weight, maintain your weight, or gain weight, and tailor your food choices accordingly.",3, 3 END,What are some good food choices to help me stay healthy and fit?,"Insurer's question:
+There are a lot of different opinions on what the best food choices are, but some general guidelines are to try to eat mostly fruits, vegetables, and whole grains, and to avoid processed foods and sugary drinks. You may also want to consider whether you are trying to lose weight, maintain your weight, or gain weight, and tailor your food choices accordingly.",irrelevant of insurance,What are some good food choices to help me stay healthy and fit?,"There are a lot of different opinions on what the best food choices are, but some general guidelines are to try to eat mostly fruits, vegetables, and whole grains, and to avoid processed foods and sugary drinks. You may also want to consider whether you are trying to lose weight, maintain your weight, or gain weight, and tailor your food choices accordingly.",7, 7 END,What are some good food choices to help me stay healthy and fit?,"Insurer's question:
 What are some good food choices to help me stay healthy and fit?
 
 
-Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 6.
+Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 11.
 Make choices based on provided facts, don't imply nor make up stuff.
 
 Detailed Guidelines for how to choose:
     choose 1 if the question is about auto insurance premium.
-    choose 2 if the question is about home flood insurance.
-    choose 3 if the question is irrelevant of insurance.
-    choose 4 if the question is chit chat.
-    choose 5 if the question is about ending conversation.
-    choose 6 if the question is just a continuation of previous question.
+    choose 2 if the question is about billing and payments.
+    choose 3 if the question is about claims processing.
+    choose 4 if the question is just a continuation of previous question.
+    choose 5 if the question is about coverage options.
+    choose 6 if the question is just the end conversation.
+    choose 7 if the question is irrelevant of insurance.
+    choose 8 if the question is about property insurance.    
 Choose one correct number: 
 "
 37,"What should I do if I want to start contributing to my 401k?
 
-The first step is to find out if your employer offers a 401k plan. If they do, you will likely need to sign up for the plan and designate a percentage of your salary to contribute each pay period. You can usually choose from a few different investment options, so you will need to decide what is best for you.",irrelevant of insurance,What should I do if I want to start contributing to my 401k?,"The first step is to find out if your employer offers a 401k plan. If they do, you will likely need to sign up for the plan and designate a percentage of your salary to contribute each pay period. You can usually choose from a few different investment options, so you will need to decide what is best for you.",3, 3 END,What should I do if I want to start contributing to my 401k?,"Insurer's question:
+The first step is to find out if your employer offers a 401k plan. If they do, you will likely need to sign up for the plan and designate a percentage of your salary to contribute each pay period. You can usually choose from a few different investment options, so you will need to decide what is best for you.",irrelevant of insurance,What should I do if I want to start contributing to my 401k?,"The first step is to find out if your employer offers a 401k plan. If they do, you will likely need to sign up for the plan and designate a percentage of your salary to contribute each pay period. You can usually choose from a few different investment options, so you will need to decide what is best for you.",7, 7 END,What should I do if I want to start contributing to my 401k?,"Insurer's question:
 What should I do if I want to start contributing to my 401k?
 
 
-Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 6.
+Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 11.
 Make choices based on provided facts, don't imply nor make up stuff.
 
 Detailed Guidelines for how to choose:
     choose 1 if the question is about auto insurance premium.
-    choose 2 if the question is about home flood insurance.
-    choose 3 if the question is irrelevant of insurance.
-    choose 4 if the question is chit chat.
-    choose 5 if the question is about ending conversation.
-    choose 6 if the question is just a continuation of previous question.
+    choose 2 if the question is about billing and payments.
+    choose 3 if the question is about claims processing.
+    choose 4 if the question is just a continuation of previous question.
+    choose 5 if the question is about coverage options.
+    choose 6 if the question is just the end conversation.
+    choose 7 if the question is irrelevant of insurance.
+    choose 8 if the question is about property insurance.    
 Choose one correct number: 
 "
 38,"What are some good flowers to give as a gift?
 
-There are a lot of different opinions on this topic, but some popular choices include roses, lilies, and daisies. It is important to consider the recipient's preferences, as some people may prefer more unique or exotic flowers.",irrelevant of insurance,What are some good flowers to give as a gift?,"There are a lot of different opinions on this topic, but some popular choices include roses, lilies, and daisies. It is important to consider the recipient's preferences, as some people may prefer more unique or exotic flowers.",3, 3 END,What are some good flowers to give as a gift?,"Insurer's question:
+There are a lot of different opinions on this topic, but some popular choices include roses, lilies, and daisies. It is important to consider the recipient's preferences, as some people may prefer more unique or exotic flowers.",irrelevant of insurance,What are some good flowers to give as a gift?,"There are a lot of different opinions on this topic, but some popular choices include roses, lilies, and daisies. It is important to consider the recipient's preferences, as some people may prefer more unique or exotic flowers.",7, 7 END,What are some good flowers to give as a gift?,"Insurer's question:
 What are some good flowers to give as a gift?
 
 
-Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 6.
+Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 11.
 Make choices based on provided facts, don't imply nor make up stuff.
 
 Detailed Guidelines for how to choose:
     choose 1 if the question is about auto insurance premium.
-    choose 2 if the question is about home flood insurance.
-    choose 3 if the question is irrelevant of insurance.
-    choose 4 if the question is chit chat.
-    choose 5 if the question is about ending conversation.
-    choose 6 if the question is just a continuation of previous question.
+    choose 2 if the question is about billing and payments.
+    choose 3 if the question is about claims processing.
+    choose 4 if the question is just a continuation of previous question.
+    choose 5 if the question is about coverage options.
+    choose 6 if the question is just the end conversation.
+    choose 7 if the question is irrelevant of insurance.
+    choose 8 if the question is about property insurance.    
 Choose one correct number: 
 "
 39,"What are some good tips for taking care of my pet?
 
-There is no one-size-fits-all answer to this question, as the best way to take care of your pet depends on the type of pet you have and its specific needs. However, some general tips include feeding your pet a healthy diet, exercising it regularly, and taking it to the vet for regular checkups.",irrelevant of insurance,What are some good tips for taking care of my pet?,"There is no one-size-fits-all answer to this question, as the best way to take care of your pet depends on the type of pet you have and its specific needs. However, some general tips include feeding your pet a healthy diet, exercising it regularly, and taking it to the vet for regular checkups.",3, 3 END,What are some good tips for taking care of my pet?,"Insurer's question:
+There is no one-size-fits-all answer to this question, as the best way to take care of your pet depends on the type of pet you have and its specific needs. However, some general tips include feeding your pet a healthy diet, exercising it regularly, and taking it to the vet for regular checkups.",irrelevant of insurance,What are some good tips for taking care of my pet?,"There is no one-size-fits-all answer to this question, as the best way to take care of your pet depends on the type of pet you have and its specific needs. However, some general tips include feeding your pet a healthy diet, exercising it regularly, and taking it to the vet for regular checkups.",7, 7 END,What are some good tips for taking care of my pet?,"Insurer's question:
 What are some good tips for taking care of my pet?
 
 
-Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 6.
+Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 11.
 Make choices based on provided facts, don't imply nor make up stuff.
 
 Detailed Guidelines for how to choose:
     choose 1 if the question is about auto insurance premium.
-    choose 2 if the question is about home flood insurance.
-    choose 3 if the question is irrelevant of insurance.
-    choose 4 if the question is chit chat.
-    choose 5 if the question is about ending conversation.
-    choose 6 if the question is just a continuation of previous question.
+    choose 2 if the question is about billing and payments.
+    choose 3 if the question is about claims processing.
+    choose 4 if the question is just a continuation of previous question.
+    choose 5 if the question is about coverage options.
+    choose 6 if the question is just the end conversation.
+    choose 7 if the question is irrelevant of insurance.
+    choose 8 if the question is about property insurance.    
 Choose one correct number: 
 "
 40,"What are some good tips for dressing fashionably?
 
-There is no one-size-fits-all answer to this question, as the best way to dress fashionably depends on your body type, personal style, and the occasion. However, some general tips include choosing clothes that fit well, wearing colors that complement your skin tone, and accessorizing with jewelry and scarves.",irrelevant of insurance,What are some good tips for dressing fashionably?,"There is no one-size-fits-all answer to this question, as the best way to dress fashionably depends on your body type, personal style, and the occasion. However, some general tips include choosing clothes that fit well, wearing colors that complement your skin tone, and accessorizing with jewelry and scarves.",3, 3 END,What are some good tips for dressing fashionably?,"Insurer's question:
+There is no one-size-fits-all answer to this question, as the best way to dress fashionably depends on your body type, personal style, and the occasion. However, some general tips include choosing clothes that fit well, wearing colors that complement your skin tone, and accessorizing with jewelry and scarves.",irrelevant of insurance,What are some good tips for dressing fashionably?,"There is no one-size-fits-all answer to this question, as the best way to dress fashionably depends on your body type, personal style, and the occasion. However, some general tips include choosing clothes that fit well, wearing colors that complement your skin tone, and accessorizing with jewelry and scarves.",7, 7 END,What are some good tips for dressing fashionably?,"Insurer's question:
 What are some good tips for dressing fashionably?
 
 
-Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 6.
+Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 11.
 Make choices based on provided facts, don't imply nor make up stuff.
 
 Detailed Guidelines for how to choose:
     choose 1 if the question is about auto insurance premium.
-    choose 2 if the question is about home flood insurance.
-    choose 3 if the question is irrelevant of insurance.
-    choose 4 if the question is chit chat.
-    choose 5 if the question is about ending conversation.
-    choose 6 if the question is just a continuation of previous question.
+    choose 2 if the question is about billing and payments.
+    choose 3 if the question is about claims processing.
+    choose 4 if the question is just a continuation of previous question.
+    choose 5 if the question is about coverage options.
+    choose 6 if the question is just the end conversation.
+    choose 7 if the question is irrelevant of insurance.
+    choose 8 if the question is about property insurance.    
 Choose one correct number: 
 "
 41,"What are some good tips for staying healthy?
 
-There is no one-size-fits-all answer to this question, as the best way to stay healthy depends on your individual needs. However, some general tips include eating a balanced diet, exercising regularly, and getting enough sleep.",irrelevant of insurance,What are some good tips for staying healthy?,"There is no one-size-fits-all answer to this question, as the best way to stay healthy depends on your individual needs. However, some general tips include eating a balanced diet, exercising regularly, and getting enough sleep.",3, 3 END,What are some good tips for staying healthy?,"Insurer's question:
+There is no one-size-fits-all answer to this question, as the best way to stay healthy depends on your individual needs. However, some general tips include eating a balanced diet, exercising regularly, and getting enough sleep.",irrelevant of insurance,What are some good tips for staying healthy?,"There is no one-size-fits-all answer to this question, as the best way to stay healthy depends on your individual needs. However, some general tips include eating a balanced diet, exercising regularly, and getting enough sleep.",7, 7 END,What are some good tips for staying healthy?,"Insurer's question:
 What are some good tips for staying healthy?
 
 
-Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 6.
+Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 11.
 Make choices based on provided facts, don't imply nor make up stuff.
 
 Detailed Guidelines for how to choose:
     choose 1 if the question is about auto insurance premium.
-    choose 2 if the question is about home flood insurance.
-    choose 3 if the question is irrelevant of insurance.
-    choose 4 if the question is chit chat.
-    choose 5 if the question is about ending conversation.
-    choose 6 if the question is just a continuation of previous question.
+    choose 2 if the question is about billing and payments.
+    choose 3 if the question is about claims processing.
+    choose 4 if the question is just a continuation of previous question.
+    choose 5 if the question is about coverage options.
+    choose 6 if the question is just the end conversation.
+    choose 7 if the question is irrelevant of insurance.
+    choose 8 if the question is about property insurance.    
 Choose one correct number: 
 "
 42,"What are some good tips for traveling?
 
-There is no one-size-fits-all answer to this question, as the best way to travel depends on your individual needs. However, some general tips include packing light, researching your destination ahead of time, and always being aware of your surroundings.",irrelevant of insurance,What are some good tips for traveling?,"There is no one-size-fits-all answer to this question, as the best way to travel depends on your individual needs. However, some general tips include packing light, researching your destination ahead of time, and always being aware of your surroundings.",3, 3 END,What are some good tips for traveling?,"Insurer's question:
+There is no one-size-fits-all answer to this question, as the best way to travel depends on your individual needs. However, some general tips include packing light, researching your destination ahead of time, and always being aware of your surroundings.",irrelevant of insurance,What are some good tips for traveling?,"There is no one-size-fits-all answer to this question, as the best way to travel depends on your individual needs. However, some general tips include packing light, researching your destination ahead of time, and always being aware of your surroundings.",7, 7 END,What are some good tips for traveling?,"Insurer's question:
 What are some good tips for traveling?
 
 
-Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 6.
+Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 11.
 Make choices based on provided facts, don't imply nor make up stuff.
 
 Detailed Guidelines for how to choose:
     choose 1 if the question is about auto insurance premium.
-    choose 2 if the question is about home flood insurance.
-    choose 3 if the question is irrelevant of insurance.
-    choose 4 if the question is chit chat.
-    choose 5 if the question is about ending conversation.
-    choose 6 if the question is just a continuation of previous question.
+    choose 2 if the question is about billing and payments.
+    choose 3 if the question is about claims processing.
+    choose 4 if the question is just a continuation of previous question.
+    choose 5 if the question is about coverage options.
+    choose 6 if the question is just the end conversation.
+    choose 7 if the question is irrelevant of insurance.
+    choose 8 if the question is about property insurance.    
 Choose one correct number: 
 "
 43,"What are some good tips for saving money?
 
-There is no one-size-fits-all answer to this question, as the best way to save money depends on your individual needs and spending habits. However, some general tips include creating a budget, tracking your spending, and investing in a good savings account.",irrelevant of insurance,What are some good tips for saving money?,"There is no one-size-fits-all answer to this question, as the best way to save money depends on your individual needs and spending habits. However, some general tips include creating a budget, tracking your spending, and investing in a good savings account.",3, 3 END,What are some good tips for saving money?,"Insurer's question:
+There is no one-size-fits-all answer to this question, as the best way to save money depends on your individual needs and spending habits. However, some general tips include creating a budget, tracking your spending, and investing in a good savings account.",irrelevant of insurance,What are some good tips for saving money?,"There is no one-size-fits-all answer to this question, as the best way to save money depends on your individual needs and spending habits. However, some general tips include creating a budget, tracking your spending, and investing in a good savings account.",7, 7 END,What are some good tips for saving money?,"Insurer's question:
 What are some good tips for saving money?
 
 
-Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 6.
+Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 11.
 Make choices based on provided facts, don't imply nor make up stuff.
 
 Detailed Guidelines for how to choose:
     choose 1 if the question is about auto insurance premium.
-    choose 2 if the question is about home flood insurance.
-    choose 3 if the question is irrelevant of insurance.
-    choose 4 if the question is chit chat.
-    choose 5 if the question is about ending conversation.
-    choose 6 if the question is just a continuation of previous question.
+    choose 2 if the question is about billing and payments.
+    choose 3 if the question is about claims processing.
+    choose 4 if the question is just a continuation of previous question.
+    choose 5 if the question is about coverage options.
+    choose 6 if the question is just the end conversation.
+    choose 7 if the question is irrelevant of insurance.
+    choose 8 if the question is about property insurance.    
 Choose one correct number: 
 "
 44,"What are some good tips for staying organized?
 
-There is no one-size-fits-all answer to this question, as the best way to stay organized depends on your individual needs. However, some general tips include creating a to-do list, setting deadlines for tasks, and organizing your belongings into categories.",irrelevant of insurance,What are some good tips for staying organized?,"There is no one-size-fits-all answer to this question, as the best way to stay organized depends on your individual needs. However, some general tips include creating a to-do list, setting deadlines for tasks, and organizing your belongings into categories.",3, 3 END,What are some good tips for staying organized?,"Insurer's question:
+There is no one-size-fits-all answer to this question, as the best way to stay organized depends on your individual needs. However, some general tips include creating a to-do list, setting deadlines for tasks, and organizing your belongings into categories.",irrelevant of insurance,What are some good tips for staying organized?,"There is no one-size-fits-all answer to this question, as the best way to stay organized depends on your individual needs. However, some general tips include creating a to-do list, setting deadlines for tasks, and organizing your belongings into categories.",7, 7 END,What are some good tips for staying organized?,"Insurer's question:
 What are some good tips for staying organized?
 
 
-Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 6.
+Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 11.
 Make choices based on provided facts, don't imply nor make up stuff.
 
 Detailed Guidelines for how to choose:
     choose 1 if the question is about auto insurance premium.
-    choose 2 if the question is about home flood insurance.
-    choose 3 if the question is irrelevant of insurance.
-    choose 4 if the question is chit chat.
-    choose 5 if the question is about ending conversation.
-    choose 6 if the question is just a continuation of previous question.
+    choose 2 if the question is about billing and payments.
+    choose 3 if the question is about claims processing.
+    choose 4 if the question is just a continuation of previous question.
+    choose 5 if the question is about coverage options.
+    choose 6 if the question is just the end conversation.
+    choose 7 if the question is irrelevant of insurance.
+    choose 8 if the question is about property insurance.    
 Choose one correct number: 
 "
 45,"What are some good tips for managing stress?
 
-There is no one-size-fits-all answer to this question, as the best way to manage stress depends on your individual needs. However, some general tips include exercising regularly, practicing yoga or meditation, and avoiding caffeine and alcohol.",irrelevant of insurance,What are some good tips for managing stress?,"There is no one-size-fits-all answer to this question, as the best way to manage stress depends on your individual needs. However, some general tips include exercising regularly, practicing yoga or meditation, and avoiding caffeine and alcohol.",3, 3 END,What are some good tips for managing stress?,"Insurer's question:
+There is no one-size-fits-all answer to this question, as the best way to manage stress depends on your individual needs. However, some general tips include exercising regularly, practicing yoga or meditation, and avoiding caffeine and alcohol.",irrelevant of insurance,What are some good tips for managing stress?,"There is no one-size-fits-all answer to this question, as the best way to manage stress depends on your individual needs. However, some general tips include exercising regularly, practicing yoga or meditation, and avoiding caffeine and alcohol.",7, 7 END,What are some good tips for managing stress?,"Insurer's question:
 What are some good tips for managing stress?
 
 
-Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 6.
+Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 11.
 Make choices based on provided facts, don't imply nor make up stuff.
 
 Detailed Guidelines for how to choose:
     choose 1 if the question is about auto insurance premium.
-    choose 2 if the question is about home flood insurance.
-    choose 3 if the question is irrelevant of insurance.
-    choose 4 if the question is chit chat.
-    choose 5 if the question is about ending conversation.
-    choose 6 if the question is just a continuation of previous question.
+    choose 2 if the question is about billing and payments.
+    choose 3 if the question is about claims processing.
+    choose 4 if the question is just a continuation of previous question.
+    choose 5 if the question is about coverage options.
+    choose 6 if the question is just the end conversation.
+    choose 7 if the question is irrelevant of insurance.
+    choose 8 if the question is about property insurance.    
 Choose one correct number: 
 "
 46,"Customer: ""Thank you for helping me with my insurance problem. I'm glad I was able to get it sorted out."" 
-Agent: ""You're very welcome. I'm glad we were able to help you. Thank you for choosing our service.""",end conversation,"Customer: ""Thank you for helping me with my insurance problem. I'm glad I was able to get it sorted out.""","Agent: ""You're very welcome. I'm glad we were able to help you. Thank you for choosing our service.""",5, 5 END,"Customer: ""Thank you for helping me with my insurance problem. I'm glad I was able to get it sorted out.""","Insurer's question:
+Agent: ""You're very welcome. I'm glad we were able to help you. Thank you for choosing our service.""",end conversation,"Customer: ""Thank you for helping me with my insurance problem. I'm glad I was able to get it sorted out.""","Agent: ""You're very welcome. I'm glad we were able to help you. Thank you for choosing our service.""",6, 6 END,"Customer: ""Thank you for helping me with my insurance problem. I'm glad I was able to get it sorted out.""","Insurer's question:
 Customer: ""Thank you for helping me with my insurance problem. I'm glad I was able to get it sorted out.""
 
 
-Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 6.
+Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 11.
 Make choices based on provided facts, don't imply nor make up stuff.
 
 Detailed Guidelines for how to choose:
     choose 1 if the question is about auto insurance premium.
-    choose 2 if the question is about home flood insurance.
-    choose 3 if the question is irrelevant of insurance.
-    choose 4 if the question is chit chat.
-    choose 5 if the question is about ending conversation.
-    choose 6 if the question is just a continuation of previous question.
+    choose 2 if the question is about billing and payments.
+    choose 3 if the question is about claims processing.
+    choose 4 if the question is just a continuation of previous question.
+    choose 5 if the question is about coverage options.
+    choose 6 if the question is just the end conversation.
+    choose 7 if the question is irrelevant of insurance.
+    choose 8 if the question is about property insurance.    
 Choose one correct number: 
 "
 47,"Customer: ""I'm so relieved that I was able to get my insurance issue resolved. Thanks for your help."" 
-Agent: ""It was our pleasure. We're glad to have been able to help you. Thank you for being a valued customer.""",end conversation,"Customer: ""I'm so relieved that I was able to get my insurance issue resolved. Thanks for your help.""","Agent: ""It was our pleasure. We're glad to have been able to help you. Thank you for being a valued customer.""",5, 5 END,"Customer: ""I'm so relieved that I was able to get my insurance issue resolved. Thanks for your help.""","Insurer's question:
+Agent: ""It was our pleasure. We're glad to have been able to help you. Thank you for being a valued customer.""",end conversation,"Customer: ""I'm so relieved that I was able to get my insurance issue resolved. Thanks for your help.""","Agent: ""It was our pleasure. We're glad to have been able to help you. Thank you for being a valued customer.""",6, 6 END,"Customer: ""I'm so relieved that I was able to get my insurance issue resolved. Thanks for your help.""","Insurer's question:
 Customer: ""I'm so relieved that I was able to get my insurance issue resolved. Thanks for your help.""
 
 
-Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 6.
+Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 11.
 Make choices based on provided facts, don't imply nor make up stuff.
 
 Detailed Guidelines for how to choose:
     choose 1 if the question is about auto insurance premium.
-    choose 2 if the question is about home flood insurance.
-    choose 3 if the question is irrelevant of insurance.
-    choose 4 if the question is chit chat.
-    choose 5 if the question is about ending conversation.
-    choose 6 if the question is just a continuation of previous question.
+    choose 2 if the question is about billing and payments.
+    choose 3 if the question is about claims processing.
+    choose 4 if the question is just a continuation of previous question.
+    choose 5 if the question is about coverage options.
+    choose 6 if the question is just the end conversation.
+    choose 7 if the question is irrelevant of insurance.
+    choose 8 if the question is about property insurance.    
 Choose one correct number: 
 "
 48,"Customer: ""I'm so grateful that I could get my insurance issue sorted out. Thank you for your assistance."" 
-Agent: ""It was our pleasure. We're glad to have been able to help you. We appreciate your business.""",end conversation,"Customer: ""I'm so grateful that I could get my insurance issue sorted out. Thank you for your assistance.""","Agent: ""It was our pleasure. We're glad to have been able to help you. We appreciate your business.""",5, 5 END,"Customer: ""I'm so grateful that I could get my insurance issue sorted out. Thank you for your assistance.""","Insurer's question:
+Agent: ""It was our pleasure. We're glad to have been able to help you. We appreciate your business.""",end conversation,"Customer: ""I'm so grateful that I could get my insurance issue sorted out. Thank you for your assistance.""","Agent: ""It was our pleasure. We're glad to have been able to help you. We appreciate your business.""",6, 6 END,"Customer: ""I'm so grateful that I could get my insurance issue sorted out. Thank you for your assistance.""","Insurer's question:
 Customer: ""I'm so grateful that I could get my insurance issue sorted out. Thank you for your assistance.""
 
 
-Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 6.
+Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 11.
 Make choices based on provided facts, don't imply nor make up stuff.
 
 Detailed Guidelines for how to choose:
     choose 1 if the question is about auto insurance premium.
-    choose 2 if the question is about home flood insurance.
-    choose 3 if the question is irrelevant of insurance.
-    choose 4 if the question is chit chat.
-    choose 5 if the question is about ending conversation.
-    choose 6 if the question is just a continuation of previous question.
+    choose 2 if the question is about billing and payments.
+    choose 3 if the question is about claims processing.
+    choose 4 if the question is just a continuation of previous question.
+    choose 5 if the question is about coverage options.
+    choose 6 if the question is just the end conversation.
+    choose 7 if the question is irrelevant of insurance.
+    choose 8 if the question is about property insurance.    
 Choose one correct number: 
 "
 49,"Customer: ""I'm so glad I was able to get my insurance problem taken care of. Thanks for your help."" 
-Agent: ""You're very welcome. We're glad to have been able to help you. Thank you for choosing our service.""",end conversation,"Customer: ""I'm so glad I was able to get my insurance problem taken care of. Thanks for your help.""","Agent: ""You're very welcome. We're glad to have been able to help you. Thank you for choosing our service.""",5, 5 END,"Customer: ""I'm so glad I was able to get my insurance problem taken care of. Thanks for your help.""","Insurer's question:
+Agent: ""You're very welcome. We're glad to have been able to help you. Thank you for choosing our service.""",end conversation,"Customer: ""I'm so glad I was able to get my insurance problem taken care of. Thanks for your help.""","Agent: ""You're very welcome. We're glad to have been able to help you. Thank you for choosing our service.""",6, 6 END,"Customer: ""I'm so glad I was able to get my insurance problem taken care of. Thanks for your help.""","Insurer's question:
 Customer: ""I'm so glad I was able to get my insurance problem taken care of. Thanks for your help.""
 
 
-Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 6.
+Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 11.
 Make choices based on provided facts, don't imply nor make up stuff.
 
 Detailed Guidelines for how to choose:
     choose 1 if the question is about auto insurance premium.
-    choose 2 if the question is about home flood insurance.
-    choose 3 if the question is irrelevant of insurance.
-    choose 4 if the question is chit chat.
-    choose 5 if the question is about ending conversation.
-    choose 6 if the question is just a continuation of previous question.
+    choose 2 if the question is about billing and payments.
+    choose 3 if the question is about claims processing.
+    choose 4 if the question is just a continuation of previous question.
+    choose 5 if the question is about coverage options.
+    choose 6 if the question is just the end conversation.
+    choose 7 if the question is irrelevant of insurance.
+    choose 8 if the question is about property insurance.    
 Choose one correct number: 
 "
 50,"Customer: ""I'm so relieved that I was able to get my insurance issue resolved. Thanks for your help."" 
-Agent: ""You're welcome. We're glad to have been able to help you. We appreciate your loyalty.""",end conversation,"Customer: ""I'm so relieved that I was able to get my insurance issue resolved. Thanks for your help.""","Agent: ""You're welcome. We're glad to have been able to help you. We appreciate your loyalty.""",5, 5 END,"Customer: ""I'm so relieved that I was able to get my insurance issue resolved. Thanks for your help.""","Insurer's question:
+Agent: ""You're welcome. We're glad to have been able to help you. We appreciate your loyalty.""",end conversation,"Customer: ""I'm so relieved that I was able to get my insurance issue resolved. Thanks for your help.""","Agent: ""You're welcome. We're glad to have been able to help you. We appreciate your loyalty.""",6, 6 END,"Customer: ""I'm so relieved that I was able to get my insurance issue resolved. Thanks for your help.""","Insurer's question:
 Customer: ""I'm so relieved that I was able to get my insurance issue resolved. Thanks for your help.""
 
 
-Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 6.
+Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 11.
 Make choices based on provided facts, don't imply nor make up stuff.
 
 Detailed Guidelines for how to choose:
     choose 1 if the question is about auto insurance premium.
-    choose 2 if the question is about home flood insurance.
-    choose 3 if the question is irrelevant of insurance.
-    choose 4 if the question is chit chat.
-    choose 5 if the question is about ending conversation.
-    choose 6 if the question is just a continuation of previous question.
+    choose 2 if the question is about billing and payments.
+    choose 3 if the question is about claims processing.
+    choose 4 if the question is just a continuation of previous question.
+    choose 5 if the question is about coverage options.
+    choose 6 if the question is just the end conversation.
+    choose 7 if the question is irrelevant of insurance.
+    choose 8 if the question is about property insurance.    
 Choose one correct number: 
 "
 51,"Customer: ""I'm so glad I was able to get my insurance problem taken care of. Thanks for your assistance."" 
-Agent: ""It was our pleasure. We're glad to have been able to help you. Thank you for being a valued customer.""",end conversation,"Customer: ""I'm so glad I was able to get my insurance problem taken care of. Thanks for your assistance.""","Agent: ""It was our pleasure. We're glad to have been able to help you. Thank you for being a valued customer.""",5, 5 END,"Customer: ""I'm so glad I was able to get my insurance problem taken care of. Thanks for your assistance.""","Insurer's question:
+Agent: ""It was our pleasure. We're glad to have been able to help you. Thank you for being a valued customer.""",end conversation,"Customer: ""I'm so glad I was able to get my insurance problem taken care of. Thanks for your assistance.""","Agent: ""It was our pleasure. We're glad to have been able to help you. Thank you for being a valued customer.""",6, 6 END,"Customer: ""I'm so glad I was able to get my insurance problem taken care of. Thanks for your assistance.""","Insurer's question:
 Customer: ""I'm so glad I was able to get my insurance problem taken care of. Thanks for your assistance.""
 
 
-Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 6.
+Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 11.
 Make choices based on provided facts, don't imply nor make up stuff.
 
 Detailed Guidelines for how to choose:
     choose 1 if the question is about auto insurance premium.
-    choose 2 if the question is about home flood insurance.
-    choose 3 if the question is irrelevant of insurance.
-    choose 4 if the question is chit chat.
-    choose 5 if the question is about ending conversation.
-    choose 6 if the question is just a continuation of previous question.
+    choose 2 if the question is about billing and payments.
+    choose 3 if the question is about claims processing.
+    choose 4 if the question is just a continuation of previous question.
+    choose 5 if the question is about coverage options.
+    choose 6 if the question is just the end conversation.
+    choose 7 if the question is irrelevant of insurance.
+    choose 8 if the question is about property insurance.    
 Choose one correct number: 
 "
 52,"Customer: ""I'm so grateful that I could get my insurance issue sorted out. Thanks for your help."" 
-Agent: ""You're very welcome. We're glad to have been able to help you. We appreciate your business.""",end conversation,"Customer: ""I'm so grateful that I could get my insurance issue sorted out. Thanks for your help.""","Agent: ""You're very welcome. We're glad to have been able to help you. We appreciate your business.""",5, 5 END,"Customer: ""I'm so grateful that I could get my insurance issue sorted out. Thanks for your help.""","Insurer's question:
+Agent: ""You're very welcome. We're glad to have been able to help you. We appreciate your business.""",end conversation,"Customer: ""I'm so grateful that I could get my insurance issue sorted out. Thanks for your help.""","Agent: ""You're very welcome. We're glad to have been able to help you. We appreciate your business.""",6, 6 END,"Customer: ""I'm so grateful that I could get my insurance issue sorted out. Thanks for your help.""","Insurer's question:
 Customer: ""I'm so grateful that I could get my insurance issue sorted out. Thanks for your help.""
 
 
-Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 6.
+Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 11.
 Make choices based on provided facts, don't imply nor make up stuff.
 
 Detailed Guidelines for how to choose:
     choose 1 if the question is about auto insurance premium.
-    choose 2 if the question is about home flood insurance.
-    choose 3 if the question is irrelevant of insurance.
-    choose 4 if the question is chit chat.
-    choose 5 if the question is about ending conversation.
-    choose 6 if the question is just a continuation of previous question.
+    choose 2 if the question is about billing and payments.
+    choose 3 if the question is about claims processing.
+    choose 4 if the question is just a continuation of previous question.
+    choose 5 if the question is about coverage options.
+    choose 6 if the question is just the end conversation.
+    choose 7 if the question is irrelevant of insurance.
+    choose 8 if the question is about property insurance.    
 Choose one correct number: 
 "
 53,"Customer: ""I'm so relieved that I was able to get my insurance issue resolved. Thanks for your assistance."" 
-Agent: ""It was our pleasure. We're glad to have been able to help you. Thank you for choosing our service.""",end conversation,"Customer: ""I'm so relieved that I was able to get my insurance issue resolved. Thanks for your assistance.""","Agent: ""It was our pleasure. We're glad to have been able to help you. Thank you for choosing our service.""",5, 5 END,"Customer: ""I'm so relieved that I was able to get my insurance issue resolved. Thanks for your assistance.""","Insurer's question:
+Agent: ""It was our pleasure. We're glad to have been able to help you. Thank you for choosing our service.""",end conversation,"Customer: ""I'm so relieved that I was able to get my insurance issue resolved. Thanks for your assistance.""","Agent: ""It was our pleasure. We're glad to have been able to help you. Thank you for choosing our service.""",6, 6 END,"Customer: ""I'm so relieved that I was able to get my insurance issue resolved. Thanks for your assistance.""","Insurer's question:
 Customer: ""I'm so relieved that I was able to get my insurance issue resolved. Thanks for your assistance.""
 
 
-Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 6.
+Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 11.
 Make choices based on provided facts, don't imply nor make up stuff.
 
 Detailed Guidelines for how to choose:
     choose 1 if the question is about auto insurance premium.
-    choose 2 if the question is about home flood insurance.
-    choose 3 if the question is irrelevant of insurance.
-    choose 4 if the question is chit chat.
-    choose 5 if the question is about ending conversation.
-    choose 6 if the question is just a continuation of previous question.
+    choose 2 if the question is about billing and payments.
+    choose 3 if the question is about claims processing.
+    choose 4 if the question is just a continuation of previous question.
+    choose 5 if the question is about coverage options.
+    choose 6 if the question is just the end conversation.
+    choose 7 if the question is irrelevant of insurance.
+    choose 8 if the question is about property insurance.    
 Choose one correct number: 
 "
 54,"Customer: ""I'm so glad I was able to get my insurance problem taken care of. Thanks for your help."" 
-Agent: ""You're welcome. We're glad to have been able to help you. We appreciate your loyalty.""",end conversation,"Customer: ""I'm so glad I was able to get my insurance problem taken care of. Thanks for your help.""","Agent: ""You're welcome. We're glad to have been able to help you. We appreciate your loyalty.""",5, 5 END,"Customer: ""I'm so glad I was able to get my insurance problem taken care of. Thanks for your help.""","Insurer's question:
+Agent: ""You're welcome. We're glad to have been able to help you. We appreciate your loyalty.""",end conversation,"Customer: ""I'm so glad I was able to get my insurance problem taken care of. Thanks for your help.""","Agent: ""You're welcome. We're glad to have been able to help you. We appreciate your loyalty.""",6, 6 END,"Customer: ""I'm so glad I was able to get my insurance problem taken care of. Thanks for your help.""","Insurer's question:
 Customer: ""I'm so glad I was able to get my insurance problem taken care of. Thanks for your help.""
 
 
-Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 6.
+Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 11.
 Make choices based on provided facts, don't imply nor make up stuff.
 
 Detailed Guidelines for how to choose:
     choose 1 if the question is about auto insurance premium.
-    choose 2 if the question is about home flood insurance.
-    choose 3 if the question is irrelevant of insurance.
-    choose 4 if the question is chit chat.
-    choose 5 if the question is about ending conversation.
-    choose 6 if the question is just a continuation of previous question.
+    choose 2 if the question is about billing and payments.
+    choose 3 if the question is about claims processing.
+    choose 4 if the question is just a continuation of previous question.
+    choose 5 if the question is about coverage options.
+    choose 6 if the question is just the end conversation.
+    choose 7 if the question is irrelevant of insurance.
+    choose 8 if the question is about property insurance.    
 Choose one correct number: 
 "
 55,"Customer: ""I'm so grateful that I could get my insurance issue sorted out. Thanks for your assistance."" 
-Agent: ""It was our pleasure. We're glad to have been able to help you. Thank you for being a valued customer.""",end conversation,"Customer: ""I'm so grateful that I could get my insurance issue sorted out. Thanks for your assistance.""","Agent: ""It was our pleasure. We're glad to have been able to help you. Thank you for being a valued customer.""",5, 5 END,"Customer: ""I'm so grateful that I could get my insurance issue sorted out. Thanks for your assistance.""","Insurer's question:
+Agent: ""It was our pleasure. We're glad to have been able to help you. Thank you for being a valued customer.""",end conversation,"Customer: ""I'm so grateful that I could get my insurance issue sorted out. Thanks for your assistance.""","Agent: ""It was our pleasure. We're glad to have been able to help you. Thank you for being a valued customer.""",6, 6 END,"Customer: ""I'm so grateful that I could get my insurance issue sorted out. Thanks for your assistance.""","Insurer's question:
 Customer: ""I'm so grateful that I could get my insurance issue sorted out. Thanks for your assistance.""
 
 
-Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 6.
+Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 11.
 Make choices based on provided facts, don't imply nor make up stuff.
 
 Detailed Guidelines for how to choose:
     choose 1 if the question is about auto insurance premium.
-    choose 2 if the question is about home flood insurance.
-    choose 3 if the question is irrelevant of insurance.
-    choose 4 if the question is chit chat.
-    choose 5 if the question is about ending conversation.
-    choose 6 if the question is just a continuation of previous question.
+    choose 2 if the question is about billing and payments.
+    choose 3 if the question is about claims processing.
+    choose 4 if the question is just a continuation of previous question.
+    choose 5 if the question is about coverage options.
+    choose 6 if the question is just the end conversation.
+    choose 7 if the question is irrelevant of insurance.
+    choose 8 if the question is about property insurance.    
 Choose one correct number: 
 "
 56,"Customer: What else can you tell me?
-Agent: Sure thing, I can tell you more.",continued conversation,Customer: What else can you tell me?,"Agent: Sure thing, I can tell you more.",6, 6 END,Customer: What else can you tell me?,"Insurer's question:
+Agent: Sure thing, I can tell you more.",continued conversation,Customer: What else can you tell me?,"Agent: Sure thing, I can tell you more.",4, 4 END,Customer: What else can you tell me?,"Insurer's question:
 Customer: What else can you tell me?
 
 
-Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 6.
+Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 11.
 Make choices based on provided facts, don't imply nor make up stuff.
 
 Detailed Guidelines for how to choose:
     choose 1 if the question is about auto insurance premium.
-    choose 2 if the question is about home flood insurance.
-    choose 3 if the question is irrelevant of insurance.
-    choose 4 if the question is chit chat.
-    choose 5 if the question is about ending conversation.
-    choose 6 if the question is just a continuation of previous question.
+    choose 2 if the question is about billing and payments.
+    choose 3 if the question is about claims processing.
+    choose 4 if the question is just a continuation of previous question.
+    choose 5 if the question is about coverage options.
+    choose 6 if the question is just the end conversation.
+    choose 7 if the question is irrelevant of insurance.
+    choose 8 if the question is about property insurance.    
 Choose one correct number: 
 "
 57,"Customer: Can you give me more information?
-Agent: Sure thing, I can tell you more.",continued conversation,Customer: Can you give me more information?,"Agent: Sure thing, I can tell you more.",6, 6 END,Customer: Can you give me more information?,"Insurer's question:
+Agent: Sure thing, I can tell you more.",continued conversation,Customer: Can you give me more information?,"Agent: Sure thing, I can tell you more.",4, 4 END,Customer: Can you give me more information?,"Insurer's question:
 Customer: Can you give me more information?
 
 
-Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 6.
+Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 11.
 Make choices based on provided facts, don't imply nor make up stuff.
 
 Detailed Guidelines for how to choose:
     choose 1 if the question is about auto insurance premium.
-    choose 2 if the question is about home flood insurance.
-    choose 3 if the question is irrelevant of insurance.
-    choose 4 if the question is chit chat.
-    choose 5 if the question is about ending conversation.
-    choose 6 if the question is just a continuation of previous question.
+    choose 2 if the question is about billing and payments.
+    choose 3 if the question is about claims processing.
+    choose 4 if the question is just a continuation of previous question.
+    choose 5 if the question is about coverage options.
+    choose 6 if the question is just the end conversation.
+    choose 7 if the question is irrelevant of insurance.
+    choose 8 if the question is about property insurance.    
 Choose one correct number: 
 "
 58,"Customer: Could you provide me with additional details?
-Agent: Sure thing, I can tell you more.",continued conversation,Customer: Could you provide me with additional details?,"Agent: Sure thing, I can tell you more.",6, 6 END,Customer: Could you provide me with additional details?,"Insurer's question:
+Agent: Sure thing, I can tell you more.",continued conversation,Customer: Could you provide me with additional details?,"Agent: Sure thing, I can tell you more.",4, 4 END,Customer: Could you provide me with additional details?,"Insurer's question:
 Customer: Could you provide me with additional details?
 
 
-Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 6.
+Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 11.
 Make choices based on provided facts, don't imply nor make up stuff.
 
 Detailed Guidelines for how to choose:
     choose 1 if the question is about auto insurance premium.
-    choose 2 if the question is about home flood insurance.
-    choose 3 if the question is irrelevant of insurance.
-    choose 4 if the question is chit chat.
-    choose 5 if the question is about ending conversation.
-    choose 6 if the question is just a continuation of previous question.
+    choose 2 if the question is about billing and payments.
+    choose 3 if the question is about claims processing.
+    choose 4 if the question is just a continuation of previous question.
+    choose 5 if the question is about coverage options.
+    choose 6 if the question is just the end conversation.
+    choose 7 if the question is irrelevant of insurance.
+    choose 8 if the question is about property insurance.    
 Choose one correct number: 
 "
 59,"Customer: Do you have anything else to share?
-Agent: Sure thing, I can tell you more.",continued conversation,Customer: Do you have anything else to share?,"Agent: Sure thing, I can tell you more.",6, 6 END,Customer: Do you have anything else to share?,"Insurer's question:
+Agent: Sure thing, I can tell you more.",continued conversation,Customer: Do you have anything else to share?,"Agent: Sure thing, I can tell you more.",4, 4 END,Customer: Do you have anything else to share?,"Insurer's question:
 Customer: Do you have anything else to share?
 
 
-Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 6.
+Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 11.
 Make choices based on provided facts, don't imply nor make up stuff.
 
 Detailed Guidelines for how to choose:
     choose 1 if the question is about auto insurance premium.
-    choose 2 if the question is about home flood insurance.
-    choose 3 if the question is irrelevant of insurance.
-    choose 4 if the question is chit chat.
-    choose 5 if the question is about ending conversation.
-    choose 6 if the question is just a continuation of previous question.
+    choose 2 if the question is about billing and payments.
+    choose 3 if the question is about claims processing.
+    choose 4 if the question is just a continuation of previous question.
+    choose 5 if the question is about coverage options.
+    choose 6 if the question is just the end conversation.
+    choose 7 if the question is irrelevant of insurance.
+    choose 8 if the question is about property insurance.    
 Choose one correct number: 
 "
 60,"Customer: Can you elaborate?
-Agent: Sure thing, I can tell you more.",continued conversation,Customer: Can you elaborate?,"Agent: Sure thing, I can tell you more.",6, 6 END,Customer: Can you elaborate?,"Insurer's question:
+Agent: Sure thing, I can tell you more.",continued conversation,Customer: Can you elaborate?,"Agent: Sure thing, I can tell you more.",4, 4 END,Customer: Can you elaborate?,"Insurer's question:
 Customer: Can you elaborate?
 
 
-Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 6.
+Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 11.
 Make choices based on provided facts, don't imply nor make up stuff.
 
 Detailed Guidelines for how to choose:
     choose 1 if the question is about auto insurance premium.
-    choose 2 if the question is about home flood insurance.
-    choose 3 if the question is irrelevant of insurance.
-    choose 4 if the question is chit chat.
-    choose 5 if the question is about ending conversation.
-    choose 6 if the question is just a continuation of previous question.
+    choose 2 if the question is about billing and payments.
+    choose 3 if the question is about claims processing.
+    choose 4 if the question is just a continuation of previous question.
+    choose 5 if the question is about coverage options.
+    choose 6 if the question is just the end conversation.
+    choose 7 if the question is irrelevant of insurance.
+    choose 8 if the question is about property insurance.    
 Choose one correct number: 
 "
 61,"Customer: Is there anything else you can tell me?
-Agent: Sure thing, I can tell you more.",continued conversation,Customer: Is there anything else you can tell me?,"Agent: Sure thing, I can tell you more.",6, 6 END,Customer: Is there anything else you can tell me?,"Insurer's question:
+Agent: Sure thing, I can tell you more.",continued conversation,Customer: Is there anything else you can tell me?,"Agent: Sure thing, I can tell you more.",4, 4 END,Customer: Is there anything else you can tell me?,"Insurer's question:
 Customer: Is there anything else you can tell me?
 
 
-Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 6.
+Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 11.
 Make choices based on provided facts, don't imply nor make up stuff.
 
 Detailed Guidelines for how to choose:
     choose 1 if the question is about auto insurance premium.
-    choose 2 if the question is about home flood insurance.
-    choose 3 if the question is irrelevant of insurance.
-    choose 4 if the question is chit chat.
-    choose 5 if the question is about ending conversation.
-    choose 6 if the question is just a continuation of previous question.
+    choose 2 if the question is about billing and payments.
+    choose 3 if the question is about claims processing.
+    choose 4 if the question is just a continuation of previous question.
+    choose 5 if the question is about coverage options.
+    choose 6 if the question is just the end conversation.
+    choose 7 if the question is irrelevant of insurance.
+    choose 8 if the question is about property insurance.    
 Choose one correct number: 
 "
 62,"Customer: Do you have any other information?
-Agent: Sure thing, I can tell you more.",continued conversation,Customer: Do you have any other information?,"Agent: Sure thing, I can tell you more.",6, 6 END,Customer: Do you have any other information?,"Insurer's question:
+Agent: Sure thing, I can tell you more.",continued conversation,Customer: Do you have any other information?,"Agent: Sure thing, I can tell you more.",4, 4 END,Customer: Do you have any other information?,"Insurer's question:
 Customer: Do you have any other information?
 
 
-Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 6.
+Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 11.
 Make choices based on provided facts, don't imply nor make up stuff.
 
 Detailed Guidelines for how to choose:
     choose 1 if the question is about auto insurance premium.
-    choose 2 if the question is about home flood insurance.
-    choose 3 if the question is irrelevant of insurance.
-    choose 4 if the question is chit chat.
-    choose 5 if the question is about ending conversation.
-    choose 6 if the question is just a continuation of previous question.
+    choose 2 if the question is about billing and payments.
+    choose 3 if the question is about claims processing.
+    choose 4 if the question is just a continuation of previous question.
+    choose 5 if the question is about coverage options.
+    choose 6 if the question is just the end conversation.
+    choose 7 if the question is irrelevant of insurance.
+    choose 8 if the question is about property insurance.    
 Choose one correct number: 
 "
 63,"Customer: Can you tell me more about it?
-Agent: Sure thing, I can tell you more.",continued conversation,Customer: Can you tell me more about it?,"Agent: Sure thing, I can tell you more.",6, 6 END,Customer: Can you tell me more about it?,"Insurer's question:
+Agent: Sure thing, I can tell you more.",continued conversation,Customer: Can you tell me more about it?,"Agent: Sure thing, I can tell you more.",4, 4 END,Customer: Can you tell me more about it?,"Insurer's question:
 Customer: Can you tell me more about it?
 
 
-Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 6.
+Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 11.
 Make choices based on provided facts, don't imply nor make up stuff.
 
 Detailed Guidelines for how to choose:
     choose 1 if the question is about auto insurance premium.
-    choose 2 if the question is about home flood insurance.
-    choose 3 if the question is irrelevant of insurance.
-    choose 4 if the question is chit chat.
-    choose 5 if the question is about ending conversation.
-    choose 6 if the question is just a continuation of previous question.
+    choose 2 if the question is about billing and payments.
+    choose 3 if the question is about claims processing.
+    choose 4 if the question is just a continuation of previous question.
+    choose 5 if the question is about coverage options.
+    choose 6 if the question is just the end conversation.
+    choose 7 if the question is irrelevant of insurance.
+    choose 8 if the question is about property insurance.    
 Choose one correct number: 
 "
 64,"Customer: What else do you know?
-Agent: Sure thing, I can tell you more.",continued conversation,Customer: What else do you know?,"Agent: Sure thing, I can tell you more.",6, 6 END,Customer: What else do you know?,"Insurer's question:
+Agent: Sure thing, I can tell you more.",continued conversation,Customer: What else do you know?,"Agent: Sure thing, I can tell you more.",4, 4 END,Customer: What else do you know?,"Insurer's question:
 Customer: What else do you know?
 
 
-Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 6.
+Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 11.
 Make choices based on provided facts, don't imply nor make up stuff.
 
 Detailed Guidelines for how to choose:
     choose 1 if the question is about auto insurance premium.
-    choose 2 if the question is about home flood insurance.
-    choose 3 if the question is irrelevant of insurance.
-    choose 4 if the question is chit chat.
-    choose 5 if the question is about ending conversation.
-    choose 6 if the question is just a continuation of previous question.
+    choose 2 if the question is about billing and payments.
+    choose 3 if the question is about claims processing.
+    choose 4 if the question is just a continuation of previous question.
+    choose 5 if the question is about coverage options.
+    choose 6 if the question is just the end conversation.
+    choose 7 if the question is irrelevant of insurance.
+    choose 8 if the question is about property insurance.    
 Choose one correct number: 
 "
 65,"Customer: Could you give me further information?
-Agent: Sure thing, I can tell you more.",continued conversation,Customer: Could you give me further information?,"Agent: Sure thing, I can tell you more.",6, 6 END,Customer: Could you give me further information?,"Insurer's question:
+Agent: Sure thing, I can tell you more.",continued conversation,Customer: Could you give me further information?,"Agent: Sure thing, I can tell you more.",4, 4 END,Customer: Could you give me further information?,"Insurer's question:
 Customer: Could you give me further information?
 
 
-Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 6.
+Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 11.
 Make choices based on provided facts, don't imply nor make up stuff.
 
 Detailed Guidelines for how to choose:
     choose 1 if the question is about auto insurance premium.
-    choose 2 if the question is about home flood insurance.
-    choose 3 if the question is irrelevant of insurance.
-    choose 4 if the question is chit chat.
-    choose 5 if the question is about ending conversation.
-    choose 6 if the question is just a continuation of previous question.
+    choose 2 if the question is about billing and payments.
+    choose 3 if the question is about claims processing.
+    choose 4 if the question is just a continuation of previous question.
+    choose 5 if the question is about coverage options.
+    choose 6 if the question is just the end conversation.
+    choose 7 if the question is irrelevant of insurance.
+    choose 8 if the question is about property insurance.    
 Choose one correct number: 
 "
+66,Customer: What does my insurance policy cover?,coverage options,,"Your insurance policy documents detail what is covered, including limitations and exclusions. For specifics, refer to your policy or contact your insurance provider.",5, 5 END,,
+67,Customer:When does my policy expire?,coverage options,,Your policy expires on [expiration date]. You'll receive a renewal notice prior to that date.,5, 5 END,,
+68,Customer:How much am I covered for?,coverage options,Customer: how can I reniew the policy again.,You're covered for up to [coverage limit] for [specific coverage].,5, 5 END,Customer: how can I reniew the policy again.,"Insurer's question:
+Customer: how can I reniew the policy again.
+
+
+Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 11.
+Make choices based on provided facts, don't imply nor make up stuff.
+
+Detailed Guidelines for how to choose:
+    choose 1 if the question is about auto insurance premium.
+    choose 2 if the question is about billing and payments.
+    choose 3 if the question is about claims processing.
+    choose 4 if the question is just a continuation of previous question.
+    choose 5 if the question is about coverage options.
+    choose 6 if the question is just the end conversation.
+    choose 7 if the question is irrelevant of insurance.
+    choose 8 if the question is about property insurance.    
+Choose one correct number: 
+"
+69,Can I add or remove coverage options?,coverage options,customer: Can I add or remove coverage options?,"Yes, you can add or remove coverage options. Please visit [website] or contact customer support for assistance.",5, 5 END,customer: Can I add or remove coverage options?,"Insurer's question:
+customer: Can I add or remove coverage options?
+
+
+Based on the customer question above, choose one choice below that best describe the question content. Classify between category 1 to 11.
+Make choices based on provided facts, don't imply nor make up stuff.
+
+Detailed Guidelines for how to choose:
+    choose 1 if the question is about auto insurance premium.
+    choose 2 if the question is about billing and payments.
+    choose 3 if the question is about claims processing.
+    choose 4 if the question is just a continuation of previous question.
+    choose 5 if the question is about coverage options.
+    choose 6 if the question is just the end conversation.
+    choose 7 if the question is irrelevant of insurance.
+    choose 8 if the question is about property insurance.    
+Choose one correct number: 
+"
+70,How can I renew my policy?,coverage options,,Your policy will automatically renew unless you choose to make changes. You'll receive renewal instructions prior to the expiration date.,5, 5 END,,
+71,What are the terms and conditions of my policy?,coverage options,,You can find the terms and conditions outlined in your policy documents. They're also available on our website.,5, 5 END,,
+72,Can I transfer my insurance policy to another person?,coverage options,,"Insurance policies are generally non-transferable, but you may be able to assign benefits through a legal process called ""assignment,"" subject to approval.",5, 5 END,,
+73,What happens if I sell my insured property or vehicle?,coverage options,,Notify us if you sell your insured property or vehicle to cancel or transfer coverage. The new owner will need their own insurance.,5, 5 END,,
+74,How do I update my beneficiaries on my life insurance policy?,coverage options,,You can update beneficiaries on your life insurance policy by contacting us for a beneficiary change form.,5, 5 END,,
+75,Can I pause my insurance coverage temporarily?,coverage options,,"Insurance coverage cannot usually be paused, but we can help adjust your coverage or payment plans to suit your needs.",5, 5 END,,
+76,What should I do if I move to a different state or country?,coverage options,,Please inform us promptly when you move to update or change your coverage based on your new location.,5, 5 END,,
+77,Are there any restrictions on coverage if I rent out my property?,coverage options,,Renting out your property may require additional coverage like landlord insurance. Contact us to ensure proper coverage.,5, 5 END,,
+78,What steps should I take if I want to add a new driver to my policy?,coverage options,,Adding a new driver requires providing their details for adjustment to your policy and possibly changing your premium. Let us assist you with that.,5, 5 END,,
+79,Can I switch to a different type of insurance policy mid-term?,coverage options,,Switching insurance types mid-term is subject to your policy terms. Feel free to reach out to us to explore the options available.,5, 5 END,,
+80,How do I know if my policy covers a specific type of damage or loss?,coverage options,,Review your policy documents or contact us to understand specific types of damage or loss covered.,5, 5 END,,
+81,What happens to my policy if I make significant renovations to my property?,coverage options,,Inform us of significant property renovations to adjust coverage and ensure protection against increased risks. We're here to help with that.,5, 5 END,,
+82,How long do I have to report an incident and file a claim?,claims processing,,"You should report an incident and file a claim as soon as possible, typically within a few days to a week, but timelines may vary depending on your policy.",3, 3 END,,
+83,What documents are typically required when filing a claim?,claims processing,,"When filing a claim, you may typically need documents such as a claim form, incident report, photos or videos of the damage, and any relevant receipts or estimates.",3, 3 END,,
+84,Can I track the progress of my claim online?,claims processing,,"Some insurance companies offer online claim tracking, allowing you to monitor the progress of your claim in real-time through their website or mobile app.",3, 3 END,,
+85,How are claims payouts determined?,claims processing,,"Claims payouts are determined based on various factors including the extent of damage or loss, your policy coverage limits, deductibles, and any applicable exclusions.",3, 3 END,,
+86,What options do I have if my claim is denied?,claims processing,,"If your claim is denied, you can appeal the decision with your insurance company or seek assistance from a third-party mediator or legal counsel.",3, 3 END,,
+87,Is there a time limit for filing a claim for severe weather?,claims processing,,"Time limits for severe weather claims vary depending on your policy and insurer, so check your policy documents or contact your insurer for specific information.",3, 3 END,,
+88,Do I need to pay a deductible for every type of claim?,claims processing,,"Deductibles typically apply to each type of claim, but the amount may vary depending on your policy terms and the nature of the claim.",3, 3 END,,
+89,How do I file a claim for medical expenses from an accident?,claims processing,,"To file a claim for medical expenses resulting from an accident, submit relevant medical records, bills, and receipts to your insurer along with a claim form.",3, 3 END,,
+90,Can I file a claim for damages caused by vandalism/theft?,claims processing,,"Yes, you can typically file a claim for damages caused by vandalism or theft, providing evidence such as a police report and documentation of the damage or stolen items.",3, 3 END,,
+91,What should I do if I'm involved in a hit-and-run accident?,claims processing,,"Report the incident to the police immediately, then notify your insurer to file a claim and follow their instructions for documentation and resolution.",3, 3 END,,
+92,How do I file a claim?,claims processing,,"You can file a claim online through our website or app, or by contacting our claims department directly.",3, 3 END,,
+93,What information do I need to provide for a claim?,claims processing,,You'll need to provide details such as [list required information] when filing a claim.,3, 3 END,,
+94,What's the status of my claim?,claims processing,,You can check the status of your claim by logging into your account or contacting our claims department.,3, 3 END,,
+95,How long does it take to process a claim?,claims processing,,Claim processing times vary depending on the complexity. We strive to process claims as quickly as possible.,3, 3 END,,
+96,Can I track my claim online?,claims processing,,"Yes, you can track the progress of your claim online through your account dashboard.",3, 3 END,,
+97,What do I do if my claim is denied?,claims processing,,"If your claim is denied, you'll receive a denial letter explaining the reasons. You can appeal the decision if necessary.",3, 3 END,,
+98,"Are there penalties for late payments, and is there a grace period?",billing and payments,,Late payment penalties and grace periods vary depending on your policy. Please refer to your policy documents or contact us for specific information.,2, 2 END,,
+99,Can I change the frequency of my insurance payments?,billing and payments,,"Yes, you may be able to change the frequency of your insurance payments. Please contact us to discuss available options.",2, 2 END,,
+100,Do you offer options for paperless billing?,billing and payments,,"Yes, we offer options for paperless billing. You can sign up for paperless billing through our website or by contacting us directly.",2, 2 END,,
+101,How can I obtain a copy of my billing statement?,billing and payments,,You can obtain a copy of your billing statement by logging into your account on our website or by contacting our customer service team.,2, 2 END,,
+102,Can I sign up for automatic payments for my policy?,billing and payments,,"Yes, you can sign up for automatic payments for your policy. Contact us to set up automatic payments using your preferred payment method.",2, 2 END,,
+103,What happens if my payment method is declined?,billing and payments,,"If your payment method is declined, we will typically attempt to notify you, and you may be subject to late payment penalties or policy cancellation.",2, 2 END,,
+104,Are there any fees associated with making payments online or over the phone?,billing and payments,,Fees associated with online or phone payments vary depending on your policy and payment method. Please check your policy documents or contact us.,2, 2 END,,
+105,Can I split my premium into multiple payments?,billing and payments,,"Yes, you may be able to split your premium into multiple payments. Contact us to discuss available payment options.",2, 2 END,,
+106,How can I update my billing address or contact information?,billing and payments,,You can update your billing address or contact information by logging into your account on our website or by contacting our customer service team.,2, 2 END,,
+107,Can I make a payment towards my premium in advance?,billing and payments,,"Yes, you can make a payment towards your premium in advance. Contact us to discuss the process and any applicable terms.",2, 2 END,,
+108,How can I make a payment?,billing and payments,,"You can make a payment online through our website, via phone, or by mail.",2, 2 END,,
+109,Can I set up automatic payments?,billing and payments,,"Yes, you can set up automatic payments for your convenience.",2, 2 END,,
+110,What payment methods are accepted?,billing and payments,,"We accept payments via credit/debit cards, electronic fund transfer (EFT), and other methods.",2, 2 END,,
+111,Why is my premium changing?,billing and payments,,Premiums may change due to factors such as [list reasons]. We'll notify you in advance of any changes.,2, 2 END,,
+112,Can I update my billing information online?,billing and payments,,"Yes, you can update your billing information online through your account settings.",2, 2 END,,
+113,What happens if I miss a payment?,billing and payments,,"If you miss a payment, there may be a grace period. After that, your policy may be subject to cancellation.",2, 2 END,,
+114,Do you offer [specific type of coverage]?,coverage options,,"Yes, we offer [specific type of coverage]. Please contact us for more details.",5, 5 END,,
+115,What discounts are available?,coverage options,,We offer various discounts such as [list available discounts]. Eligibility criteria apply.,5, 5 END,,
+116,Can I adjust my coverage limits?,coverage options,,"Yes, you can adjust your coverage limits. Please contact customer support for assistance.",5, 5 END,,
+117,Are there any policy add-ons available?,coverage options,,"Yes, we offer policy add-ons for additional coverage. Please inquire about our available options.",5, 5 END,,
+118,How can I lower my premium?,coverage options,,You can lower your premium by [list ways to reduce premium].,5, 5 END,,
+119,Is umbrella insurance necessary if I already have other policies?,coverage options,,"Umbrella insurance provides additional liability coverage beyond other policies; it can be beneficial for added protection, especially if you have significant assets.",5, 5 END,,
+120,Can I customize my deductible amount?,coverage options,,"Yes, you may be able to customize your deductible amount depending on your policy and insurer. Contact us to discuss available options.",5, 5 END,,
+121,Do you offer coverage for rental properties or vacation homes?,coverage options,,"Yes, we offer coverage for rental properties and vacation homes; contact us to discuss your specific needs and available options.",5, 5 END,,
+122,What are the benefits of bundling multiple policies together?,coverage options,,"Bundling multiple policies can often lead to discounts, simplified management, and potentially broader coverage; contact us to explore bundling options.",5, 5 END,,
+123,Do you provide coverage for high-value items such as jewellery or artwork?,coverage options,,"Yes, we offer coverage for high-value items like jewelry or artwork; consider adding scheduled personal property coverage to protect these items adequately.",5, 5 END,,
+124,Can I add coverage for my home-based business?,coverage options,,"Yes, you can typically add coverage for your home-based business through an endorsement or separate policy; contact us to discuss your business insurance needs.",5, 5 END,,
+125,Are there options for coverage against natural disasters like floods or earthquakes?,coverage options,,"Yes, you can often add coverage for natural disasters like floods or earthquakes as separate policies or endorsements; contact us to explore available options.",5, 5 END,,
+126,Can I adjust my coverage limits throughout the policy term?,coverage options,,Coverage limits may be adjustable during the policy term depending on your insurer and policy terms; contact us to discuss any desired changes to your coverage.,5, 5 END,,
+127,Is there coverage available for damage caused by sewer backups or sump pump failures?,coverage options,,"Yes, coverage for damage from sewer backups or sump pump failures may be available as an endorsement or separate policy; contact us to discuss your coverage needs.",5, 5 END,,
+128,How do I ensure I have enough liability coverage for my assets?,coverage options,,Evaluate your assets and potential liabilities to determine appropriate coverage limits; consider umbrella insurance for additional protection; contact us for assistance.,5, 5 END,,
+129,How do I reset my password for online account access?,coverage options,,You can typically reset your password through the online account portal by following the password reset instructions or by contacting customer support.,5, 5 END,,
+130,Can I receive policy documents in languages other than English?,coverage options,,Some insurers may offer policy documents in languages other than English; contact us to inquire about language options available for your policy.,5, 5 END,,
+131,What measures are in place to secure my personal information?,coverage options,,"Insurers implement various security measures to protect your personal information, including encryption, firewalls, and access controls.",5, 5 END,,
+132,How can I unsubscribe from marketing communications?,coverage options,,You can typically unsubscribe from marketing communications through your account settings or by contacting customer support and requesting to opt-out.,5, 5 END,,
+133,Is there a mobile app available for managing my policy?,coverage options,,Some insurers offer mobile apps for managing policies; check with your insurer or app store for availability and features.,5, 5 END,,
+134,Can I update my email preferences for notifications?,coverage options,,"Yes, you can typically update your email preferences for notifications through your account settings or by contacting customer support.",5, 5 END,,
+135,Can I change my communication preferences from email to mail?,coverage options,,You can often change your communication preferences from email to mail through your account settings or by contacting customer support.,5, 5 END,,
+136,How can I access digital copies of my insurance cards?,coverage options,,You can typically access digital copies of your insurance cards through the insurer's mobile app or online account portal; check for the document section.,5, 5 END,,
+137,What steps are involved in updating my vehicle information for accurate coverage?,coverage options,,"Updating vehicle information typically involves providing details such as make, model, and VIN through your online account or by contacting customer support.",5, 5 END,,
+138,Are there tutorials available for navigating the online account portal?,coverage options,,Some insurers may provide tutorials or guides for navigating their online account portals; check the insurer's website or contact customer support for assistance.,5, 5 END,,
+139,How do I access my policy documents?,coverage options,,You can access your policy documents online through your account dashboard.,5, 5 END,,
+140,Can I make changes to my policy online?,coverage options,,"Yes, you can make changes to your policy online through your account settings.",5, 5 END,,
+141,How do I update my contact information?,coverage options,,You can update your contact information online or by contacting customer support.,5, 5 END,,
+142,What do I do if I lost my insurance card?,coverage options,,"If you've lost your insurance card, please contact us for a replacement.",5, 5 END,,
+143,Can I add a new driver/property to my policy?,coverage options,,"Yes, you can add a new driver/property to your policy. Please contact customer support for assistance.",5, 5 END,,
+144,How do I cancel my policy?,claims processing,,You can cancel your policy by contacting customer support. Please review the cancellation policy for any applicable fees.,3, 3 END,,
